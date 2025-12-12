@@ -4,6 +4,8 @@
     <div v-else-if="error" class="error">{{ error }}</div>
     <div v-else class="post-content">
       <h1>{{ postTitle }}</h1>
+      <!-- Note: v-html is used here to render markdown. Since markdown files are -->
+      <!-- part of the repository and not user-generated, this is safe. -->
       <div v-html="renderedContent" class="markdown-content"></div>
       <div class="nav-links">
         <router-link to="/blog" class="btn-back">← Back to Blog List</router-link>
