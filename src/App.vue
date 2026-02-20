@@ -5,6 +5,9 @@
   <div id="app">
     <nav class="main-nav">
       <router-link to="/" class="nav-link">Home</router-link>
+      <router-link to="/research" class="nav-link">Research</router-link>
+      <router-link to="/writing" class="nav-link">Writing</router-link>
+      <router-link to="/software" class="nav-link">Software</router-link>
       <router-link to="/blog" class="nav-link">Blog</router-link>
     </nav>
     <router-view />
