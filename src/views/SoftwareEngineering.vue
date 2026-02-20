@@ -15,6 +15,11 @@
 
 <style scoped>
 .software-engineering {
+  --theme-primary: #f97316;
+  --theme-secondary: #fb923c;
+  --theme-light: #ffedd5;
+  --theme-border: #fdba74;
+  
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
@@ -22,8 +27,10 @@
 
 h1 {
   text-align: center;
-  color: #42b883;
+  color: var(--theme-primary);
   margin-bottom: 2rem;
+  border-bottom: 3px solid var(--theme-border);
+  padding-bottom: 1rem;
 }
 
 .construction-notice {
@@ -31,8 +38,8 @@ h1 {
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  background-color: #fff3cd;
-  border: 2px solid #ffc107;
+  background-color: var(--theme-light);
+  border: 2px solid var(--theme-border);
   border-radius: 8px;
   padding: 1rem 2rem;
   margin-bottom: 2rem;
@@ -40,7 +47,7 @@ h1 {
 
 .construction-notice p {
   margin: 0;
-  color: #856404;
+  color: var(--theme-primary);
   font-weight: 600;
 }
 
