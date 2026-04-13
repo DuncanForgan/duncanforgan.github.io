@@ -1,5 +1,5 @@
 <template>
-  <div class="blog-list">
+  <div class="blog">
     <h1>Blog Posts</h1>
     <div class="posts">
       <div v-for="post in posts" :key="post.slug" class="post-card">
@@ -24,17 +24,6 @@ const posts = ref(blogPosts)
 </script>
 
 <style scoped>
-.blog-list {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
-}
-
-h1 {
-  text-align: center;
-  color: #42b883;
-  margin-bottom: 2rem;
-}
 
 .posts {
   display: flex;
@@ -54,31 +43,23 @@ h1 {
 }
 
 .post-card h2 {
-  margin-top: 0;
-  color: #333;
+  margin-top: 0;  
 }
 
 .date {
-  color: #999;
   font-size: 0.9rem;
   margin: 0.5rem 0;
 }
 
-.excerpt {
-  color: #666;
+.excerpt {  
   line-height: 1.6;
 }
 
 .read-more {
   display: inline-block;
   margin-top: 1rem;
-  color: #42b883;
   text-decoration: none;
   font-weight: 600;
-}
-
-.read-more:hover {
-  color: #35a372;
 }
 
 .nav-links {

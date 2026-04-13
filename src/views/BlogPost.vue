@@ -1,5 +1,5 @@
 <template>
-  <div class="blog-post">
+  <div class="blog">
     <div v-if="loading" class="loading">Loading...</div>
     <div v-else-if="error" class="error">{{ error }}</div>
     <div v-else class="post-content">
@@ -73,25 +73,18 @@ onMounted(async () => {
 }
 
 .error {
-  color: #e74c3c;
-}
-
-.post-content h1 {
-  color: #42b883;
-  margin-bottom: 2rem;
-  border-bottom: 2px solid #42b883;
-  padding-bottom: 0.5rem;
+  color: var(--error-color);
 }
 
 .markdown-content {
   line-height: 1.8;
-  color: #333;
+  color: var(--text-color);
 }
 
 .markdown-content :deep(h1),
 .markdown-content :deep(h2),
 .markdown-content :deep(h3) {
-  color: #2c3e50;
+  color: var(--text-color);
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
@@ -125,7 +118,7 @@ onMounted(async () => {
 }
 
 .markdown-content :deep(a) {
-  color: #42b883;
+  color: --var(--link-color);
   text-decoration: none;
 }
 
@@ -140,25 +133,23 @@ onMounted(async () => {
 }
 
 .markdown-content :deep(blockquote) {
-  border-left: 4px solid #42b883;
+  border-left: 4px solid var(--text-color);
   padding-left: 1rem;
-  margin-left: 0;
-  color: #666;
+  margin-left: 0;  
   font-style: italic;
 }
 
 .nav-links {
   margin-top: 3rem;
-  padding-top: 2rem;
-  border-top: 1px solid #e0e0e0;
+  padding-top: 2rem;  
 }
 
 .btn-back {
   display: inline-block;
-  padding: 0.75rem 1.5rem;
-  background-color: #f0f0f0;
-  color: #333;
+  padding: 0.75rem 1.5rem;    
   text-decoration: none;
+  color: var(--text-color);
+  background-color: var(--theme-primary);
   border-radius: 4px;
   transition: background-color 0.3s;
 }

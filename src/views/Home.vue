@@ -1,9 +1,12 @@
 <template>
   <div class="home">    
     <h1>Dr Duncan Forgan PhD</h1>
-    <p>🚧 This is my new website which is currently under construction</p>    
+    <p>🚧 Welcome to my new website, which is currently under construction</p>    
+    <p>I was a computational astrophysicist and astrobiologist for ten years, specialising in the formation of planets and the search for extraterrestrial intelligence (SETI).  You can find my book on the subject, <a href="https://www.cambridge.org/core/books/solving-fermis-paradox/46945FE622E1F62E8DA36832B9F58A8A">Solving Fermi's Paradox</a>, at all good bookstores.</p>
+    <p>Since then, I've moved on into software engineering industry, as a Technical Lead at Dayshape.</p>
+    <p>I'm also a keen sci-fi writer and a member of the Edinburgh Science Fiction and Fantasy Discord (<a href="https://edinburghsff.com/">ESFF</a>)</p>
     <div class="nav-links">
-      <router-link to="/blog" class="btn">Read My Blog Posts</router-link>
+      <router-link to="/blog" class="btn blog">Read My Blog Posts</router-link>
     </div>
   </div>
 </template>
@@ -12,53 +15,7 @@
 </script>
 
 <style scoped>
-.home {
-  text-align: center;
-  padding: 2rem;
-}
 
-.construction-notice {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 1rem;
-  background-color: #fff3cd;
-  border: 2px solid #ffc107;
-  border-radius: 8px;
-  padding: 1rem 2rem;
-  margin-bottom: 2rem;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.construction-notice h2 {
-  margin: 0;
-  color: #856404;
-  font-size: 1.5rem;
-}
-
-.construction-icon {
-  font-size: 2rem;
-}
-
-h1 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  color: #42b883;
-}
-
-p {
-  font-size: 1.2rem;
-  color: #666;
-  margin-bottom: 1rem;
-}
-
-.subtitle {
-  font-size: 1rem;
-  color: #999;
-  margin-bottom: 2rem;
-}
 
 .nav-links {
   margin-top: 2rem;
@@ -67,7 +24,7 @@ p {
 .btn {
   display: inline-block;
   padding: 0.75rem 1.5rem;
-  background-color: #42b883;
+  background-color: var(--nav-bar-color);
   color: white;
   text-decoration: none;
   border-radius: 4px;
@@ -75,6 +32,7 @@ p {
 }
 
 .btn:hover {
-  background-color: #35a372;
+  background-color: var(--theme-primary);
 }
+
 </style>

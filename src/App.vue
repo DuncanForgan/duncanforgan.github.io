@@ -4,11 +4,11 @@
 <template>
   <div id="app">
     <nav class="main-nav">
-      <router-link to="/" class="nav-link">Home</router-link>
-      <router-link to="/research" class="nav-link">I Was an Astrophysicist</router-link>
-      <router-link to="/software" class="nav-link">I Write Code</router-link>
-      <router-link to="/writing" class="nav-link">I Write Fiction</router-link>
-      <router-link to="/blog" class="nav-link">Blog</router-link>
+      <router-link to="/" class="nav-link home">Home</router-link>
+      <router-link to="/research" class="nav-link academic-research">I Was an Astrophysicist</router-link>
+      <router-link to="/software" class="nav-link software-engineering">I Write Code</router-link>
+      <router-link to="/writing" class="nav-link writing">I Write Fiction</router-link>
+      <router-link to="/blog" class="nav-link blog">Blog</router-link>
     </nav>
     <router-view />
   </div>
@@ -20,14 +20,14 @@
 }
 
 .main-nav {
-  background-color: #2c3e50;
+  background-color: var(--nav-bar-color);
   padding: 1rem 2rem;
   display: flex;
   gap: 2rem;
 }
 
 .nav-link {
-  color: rgb(255, 255, 255);
+  color: var(--nav-bar-text-color);
   text-decoration: none;
   font-weight: 600;
   padding: 0.5rem 1rem;
@@ -37,6 +37,8 @@
 
 .nav-link:hover,
 .nav-link.router-link-active {
-  background-color: #42b883;
+  background-color: var(--theme-primary);
+  color: var(--text-color);
 }
+
 </style>
