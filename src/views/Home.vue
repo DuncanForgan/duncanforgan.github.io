@@ -1,15 +1,9 @@
 <template>
-  <div class="home">
-    <div class="construction-notice">
-      <span class="construction-icon">🚧</span>
-      <h2>Under Construction</h2>
-      <span class="construction-icon">🚧</span>
-    </div>
-    <h1>Welcome to My Blog</h1>
-    <p>This site is currently being built. Please check back soon for updates!</p>
-    <p class="subtitle">This is a Vue 3 static website with dynamic routing for blog posts.</p>
+  <div class="home">    
+    <h1>Dr Duncan Forgan PhD</h1>
+    <p>🚧 This is my new website which is currently under construction</p>    
     <div class="nav-links">
-      <router-link to="/blog" class="btn">View Blog Posts</router-link>
+      <router-link to="/blog" class="btn">Read My Blog Posts</router-link>
     </div>
   </div>
 </template>

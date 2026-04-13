@@ -14,16 +14,7 @@
 </script>
 
 <style scoped>
-.academic-research {
-  --theme-primary: #3b82f6;
-  --theme-secondary: #60a5fa;
-  --theme-light: #dbeafe;
-  --theme-border: #93c5fd;
-  
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
-}
+
 
 h1 {
   text-align: center;

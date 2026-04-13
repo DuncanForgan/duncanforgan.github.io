@@ -14,16 +14,7 @@
 </script>
 
 <style scoped>
-.writing {
-  --theme-primary: #a855f7;
-  --theme-secondary: #c084fc;
-  --theme-light: #f3e8ff;
-  --theme-border: #d8b4fe;
-  
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
-}
+
 
 h1 {
   text-align: center;

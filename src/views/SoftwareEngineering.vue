@@ -1,6 +1,6 @@
 <template>
   <div class="software-engineering">
-    <h1>Software Engineering</h1>
+    <h1>I Write Code</h1>
     <div class="construction-notice">
       <span class="construction-icon">🚧</span>
       <p>This section is under construction</p>
@@ -14,16 +14,6 @@
 </script>
 
 <style scoped>
-.software-engineering {
-  --theme-primary: #f97316;
-  --theme-secondary: #fb923c;
-  --theme-light: #ffedd5;
-  --theme-border: #fdba74;
-  
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
-}
 
 h1 {
   text-align: center;

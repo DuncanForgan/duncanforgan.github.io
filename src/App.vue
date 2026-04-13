@@ -5,9 +5,9 @@
   <div id="app">
     <nav class="main-nav">
       <router-link to="/" class="nav-link">Home</router-link>
-      <router-link to="/research" class="nav-link">Research</router-link>
-      <router-link to="/writing" class="nav-link">Writing</router-link>
-      <router-link to="/software" class="nav-link">Software</router-link>
+      <router-link to="/research" class="nav-link">I Was an Astrophysicist</router-link>
+      <router-link to="/software" class="nav-link">I Write Code</router-link>
+      <router-link to="/writing" class="nav-link">I Write Fiction</router-link>
       <router-link to="/blog" class="nav-link">Blog</router-link>
     </nav>
     <router-view />
@@ -27,7 +27,7 @@
 }
 
 .nav-link {
-  color: white;
+  color: rgb(255, 255, 255);
   text-decoration: none;
   font-weight: 600;
   padding: 0.5rem 1rem;
