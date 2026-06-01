@@ -6,16 +6,16 @@
   font-weight: 400;
 
   --text-color-dark: #babbc2;
-  --background-color-dark:  #161515;
+  --background-color-dark:  #423c3c;
   
   --text-color-light: var(--background-color-dark);
   --background-color-light: var(--text-color-dark);
 
-
-  --text-color: var(--text-color-dark);
+   --text-color: var(--text-color-light);
+   --background-color: var(--background-color-light);
 
   --nav-bar-color:  #0d2b22;
-  --nav-bar-text-color: var(--text-color);
+  --nav-bar-text-color: white;
   --link-color: #646cff;
   --link-hover-color:  #848af1;
 
@@ -24,8 +24,8 @@
 
 
   color-scheme: light dark;
-  color:var(--text-color-dark);
-  background-color: var(--background-color-dark);
+  color:var(--text-color);
+  background-color: var(--background-color);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -89,8 +89,8 @@ button:focus-visible {
 }
 
 .home {
-  --theme-primary: #d5d5e0;    
-  --theme-border: #7e7e7e;
+  --theme-primary: #3b82f6;
+  --theme-border: #93c5fd;
 
 
   max-width: 800px;
@@ -150,10 +150,10 @@ h1 {
   text-align: center;
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
   :root {
-    color: var(--text-color-light);
-    background-color: var(--background-color-light);
+    color: var(--text-color-dark);
+    background-color: var(--background-color-dark);
   }
 
 a {
