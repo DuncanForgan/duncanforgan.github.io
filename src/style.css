@@ -98,9 +98,12 @@ button:focus-visible {
   padding: 2rem;
 }
 
-.writing {
-  --theme-primary: #5cd8f7;  
-  --theme-border: #92e4f8;
+.writing,
+ .blog {
+  /*--theme-primary: #5cd8f7;  */
+  /*--theme-border: #92e4f8;*/
+  --theme-primary: #3b82f6;    
+  --theme-border: #93c5fd;
 
   max-width: 800px;
   margin: 0 auto;
@@ -124,14 +127,13 @@ button:focus-visible {
   padding: 2rem;
 }
 
-.blog {
-  --theme-primary: #3b82f6;    
-  --theme-border: #93c5fd;
+/*.blog {
+  
 
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
-}
+}*/
 
 
 h1,h2 {

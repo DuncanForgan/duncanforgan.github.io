@@ -26,7 +26,10 @@
 
 .home-title {
   color: var(--text-color);
-  border-color: var(--text-color);
+}
+
+h1 {
+border-color: var(--text-color);
 }
 
 .nav-links {
