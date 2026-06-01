@@ -19,26 +19,6 @@
   min-height: 100vh;
 }
 
-.main-nav {
-  background-color: var(--nav-bar-color);
-  padding: 1rem 2rem;
-  display: flex;
-  gap: 2rem;
-}
 
-.nav-link {
-  color: var(--nav-bar-text-color);
-  text-decoration: none;
-  font-weight: 600;
-  padding: 0.5rem 1rem;
-  border-radius: 4px;
-  transition: background-color 0.3s;
-}
-
-.nav-link:hover,
-.nav-link.router-link-active {
-  background-color: var(--theme-primary);
-  color: var(--text-color);
-}
 
 </style>

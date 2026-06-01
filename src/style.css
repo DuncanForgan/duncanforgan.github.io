@@ -87,6 +87,8 @@ button:focus-visible {
   color: #666;
 }
 
+
+
 .home {
   --theme-primary: var(--background-color);
   --theme-border: var(--background-color);
@@ -98,7 +100,7 @@ button:focus-visible {
 
 .writing,
  .blog {
-  --theme-primary: #3b82f6;    
+  --theme-primary: #75a6f3;    
   --theme-border: #93c5fd;
 
   max-width: 800px;
@@ -107,16 +109,16 @@ button:focus-visible {
 }
 
 .software-engineering {
-  --theme-primary: #fd8732;    
-  --theme-border: #fdba74;
+  --theme-primary: #cc5c0b;    
+  --theme-border: #fd8732;
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
 }
 
 .academic-research {
-  --theme-primary: #f63b3bad;    
-  --theme-border: #d67070ad;
+  --theme-primary: #1c8513fd;    
+  --theme-border: #1c8513fd;
 
   max-width: 800px;
   margin: 0 auto;
@@ -131,12 +133,42 @@ button:focus-visible {
   padding: 2rem;
 }*/
 
+.main-nav {
+  padding: 1rem 2rem;
+  display: flex;
+  gap: 2rem;  
+  border-color: var(--text-color);
+  border-bottom: 3px solid;
+}
 
-h1,h2 {
+.nav-link {
+  color: var(--nav-bar-text-color);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.nav-link:hover,
+.nav-link.router-link-active {
+  background-color: var(--theme-primary);
+  color: var(--text-color);
+}
+
+
+h2 {
   text-align: center;
   color: var(--theme-primary);
   margin-bottom: 2rem;
   border-bottom: 3px solid var(--theme-border);
+  padding-bottom: 1rem;
+}
+
+h1 {
+  text-align: center;
+  color: var(--theme-primary);
+  margin-bottom: 2rem;  
   padding-bottom: 1rem;
 }
 
@@ -161,6 +193,14 @@ a {
   a:hover {
     color: var(--link-hover-color);
   }
+
+  .main-nav {
+  padding: 1rem 2rem;
+  display: flex;
+  gap: 2rem;  
+  border-color: var(--text-color-dark);
+  border-bottom: 3px solid;
+}
 
   button {
     background-color: #f9f9f9;
