@@ -32,6 +32,20 @@ h1 {
 border-color: var(--text-color);
 }
 
+
+@media (prefers-color-scheme: dark) {
+ .home-title {
+    color: var(--text-color-dark);
+    background-color: var(--background-color-dark);
+  }
+  h1 {
+  border-color: var(--text-color-dark);
+}
+  h2 .home-title {
+  border-color:none;
+}
+}
+
 .nav-links {
   margin-top: 2rem;
 }

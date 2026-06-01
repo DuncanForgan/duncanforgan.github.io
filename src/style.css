@@ -53,7 +53,6 @@ body {
 
 p {
   font-size: 1.2rem;
-  color: var(--text-color);
   margin-bottom: 1rem;
 }
 
@@ -92,7 +91,6 @@ button:focus-visible {
   --theme-primary: var(--background-color);
   --theme-border: var(--background-color);
 
-
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
@@ -100,8 +98,6 @@ button:focus-visible {
 
 .writing,
  .blog {
-  /*--theme-primary: #5cd8f7;  */
-  /*--theme-border: #92e4f8;*/
   --theme-primary: #3b82f6;    
   --theme-border: #93c5fd;
 
