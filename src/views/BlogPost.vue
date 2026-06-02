@@ -78,13 +78,13 @@ onMounted(async () => {
 
 .markdown-content {
   line-height: 1.8;
-  color: var(--text-color);
+  color: var(--text-color-light);
 }
 
 .markdown-content :deep(h1),
 .markdown-content :deep(h2),
 .markdown-content :deep(h3) {
-  color: var(--text-color);
+  color: var(--text-color-light);
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
@@ -157,4 +157,22 @@ onMounted(async () => {
 .btn-back:hover {
   background-color: #e0e0e0;
 }
+
+
+@media (prefers-color-scheme: dark) {
+ .markdown-content,
+ .markdown-content :deep(h1),
+ .markdown-content :deep(h2),
+ .markdown-content :deep(h3) {
+    color: var(--text-color-dark);        
+  }
+
+  markdown-content :deep(blockquote) {
+  border-left: 4px solid var(--text-color--dark);
+  padding-left: 1rem;
+  margin-left: 0;  
+  font-style: italic;
+}
+}
+
 </style>

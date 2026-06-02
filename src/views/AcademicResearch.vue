@@ -15,7 +15,7 @@
     <p>My main thesis topic, self-gravitating protostellar discs are a common outcome of the star formation process.  During the collapse of giant molecular clouds into protostars, the angular momentum in the collapsing material forms a disc with a mass that rivals that of the newly formed protostar.</p>
     <p>I explored the rapid evolution of these discs, as their mass flowed onto the protostar.  We were interested in whether the disc could become unstable and break up into planetary mass bodies.</p>
 
-    <p>Through numerical hydrodynamic simulations, synthetic imaging and population synthesis, my work showed that this process, in the circumstances where the disc did become unstable, formed very massive giant planets and brown dwarfs at great separation from the protostar (i.e. beyond the orbit of Pluto in today's Solar System).</p>
+    <p>Through numerical hydrodynamic simulations, synthetic imaging and population synthesis, my work showed that this process could form very massive giant planets and brown dwarfs at great separation from the protostar (i.e. beyond the orbit of Pluto in today's Solar System).</p>
 
 
     <h2 id="climate">Extrasolar Planetary Climates</h2>
