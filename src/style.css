@@ -33,6 +33,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 a {
   font-weight: 500;
   color: var(--link-color);
@@ -45,8 +51,6 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
 }
@@ -136,7 +140,9 @@ button:focus-visible {
 .main-nav {
   padding: 1rem 2rem;
   display: flex;
-  gap: 2rem;  
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
   border-color: var(--text-color);
   border-bottom: 3px solid;
 }
@@ -180,6 +186,21 @@ h1 {
   text-align: center;
 }
 
+@media (max-width: 768px) {
+  #app {
+    padding: 1rem;
+  }
+
+  .main-nav {
+    gap: 0.75rem;
+    padding: 1rem;
+  }
+
+  .nav-link {
+    padding: 0.5rem 0.75rem;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     color: var(--text-color-dark);
@@ -196,12 +217,8 @@ a {
   }
 
   .main-nav {
-  padding: 1rem 2rem;
-  display: flex;
-  gap: 2rem;  
-  border-color: var(--text-color-dark);
-  border-bottom: 3px solid;
-}
+    border-color: var(--text-color-dark);
+  }
 
   button {
     background-color: #f9f9f9;
