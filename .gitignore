@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# WordPress migration – generated temp files
+blogPosts_entries.tmp.js
+wordpress-export.xml

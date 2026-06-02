@@ -224,24 +224,29 @@ def main() -> None:
 
         js_entries.append(format_js_entry(post, excerpt))
 
+    # Write JS config entries to a temp file (sorted by date) for easy pasting
+    js_out_path = Path(__file__).parent / "blogPosts_entries.tmp.js"
+    if not args.dry_run:
+        with js_out_path.open("w", encoding="utf-8") as f:
+            f.write("// Paste these entries into src/config/blogPosts.js in date order\n\n")
+            for entry in js_entries:
+                f.write(entry + ",\n\n")
+
     print(f"\n{'─' * 60}")
     print(f"Converted {len(posts)} post(s).")
     print()
-    print("Add the following entries to src/config/blogPosts.js")
-    print("(insert in date order alongside existing posts):")
-    print(f"{'─' * 60}\n")
-
-    for entry in js_entries:
-        print(entry + ",")
-        print()
-
-    print("─" * 60)
+    if args.dry_run:
+        print("[dry-run] Would write JS entries to: blogPosts_entries.tmp.js")
+    else:
+        print(f"JS entries written to: {js_out_path}")
+        print("Paste the entries (in date order) into src/config/blogPosts.js")
+    print(f"{'─' * 60}")
     print()
     print("Next steps:")
     print("  1. Review the generated .md files in src/posts/")
     print("  2. Check for WordPress shortcodes (e.g. [gallery]) that need manual cleanup")
     print("  3. Decide whether to hotlink or locally host any images")
-    print("  4. Copy the entries above into src/config/blogPosts.js")
+    print("  4. Paste blogPosts_entries.tmp.js contents into src/config/blogPosts.js")
 
 
 if __name__ == "__main__":
