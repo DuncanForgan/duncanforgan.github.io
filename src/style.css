@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root {
+  font-family: Cabin, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --text-color-dark: #c0c1c5;
+  --background-color-dark:  #413b3b;
+  
+  --text-color-light: var(--background-color-dark);
+  --background-color-light: var(--text-color-dark);
+
+   --text-color: var(--text-color-light);
+   --background-color: var(--background-color-light);
+
+  --nav-bar-color:  #6b9488;
+  --nav-bar-text-color: rgb(255, 255, 255);
+  --link-color: #646cff;
+  --link-hover-color:  #848af1;
+
+
+  --error-color:red;
+
+
+  color-scheme: light dark;
+  color:var(--text-color);
+  background-color: var(--background-color);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: var(--link-color);
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: var(--link-hover-color);
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+button:hover {
+  border-color: #646cff;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+.card {
+  padding: 2em;
+}
+
+.intro {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #666;
+}
+
+
+
+.home {
+  --theme-primary: var(--background-color);
+  --theme-border: var(--background-color);
+
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.writing,
+ .blog {
+  --theme-primary: #75a6f3;    
+  --theme-border: #93c5fd;
+
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.software-engineering {
+  --theme-primary: #cc5c0b;    
+  --theme-border: #fd8732;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.academic-research {
+  --theme-primary: #1c8513fd;    
+  --theme-border: #1c8513fd;
+
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/*.blog {
+  
+
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}*/
+
+.main-nav {
+  padding: 1rem 2rem;
+  display: flex;
+  gap: 2rem;  
+  border-color: var(--text-color);
+  border-bottom: 3px solid;
+}
+
+.nav-link {
+  color: var(--nav-bar-text-color);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.nav-link:hover,
+.nav-link.router-link-active {
+  background-color: var(--theme-primary);
+  color: var(--text-color);
+}
+
+
+h2 {
+  text-align: center;
+  color: var(--theme-primary);
+  margin-bottom: 2rem;
+  border-bottom: 3px solid var(--theme-border);
+  padding-bottom: 1rem;
+}
+
+h1 {
+  text-align: center;
+  color: var(--theme-primary);
+  margin-bottom: 2rem;  
+  padding-bottom: 1rem;
+}
+
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color: var(--text-color-dark);
+    background-color: var(--background-color-dark);
+  }
+
+a {
+  color: var(--link-color);
+}
+
+  a:hover {
+    color: var(--link-hover-color);
+  }
+
+  .main-nav {
+  padding: 1rem 2rem;
+  display: flex;
+  gap: 2rem;  
+  border-color: var(--text-color-dark);
+  border-bottom: 3px solid;
+}
+
+  button {
+    background-color: #f9f9f9;
+  }
+}

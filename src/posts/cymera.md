@@ -1,0 +1,3 @@
+# I'm off to CYMERA!
+
+I've taken the plunge and bought a full weekend pass for CYMERA.  I'm looking forward to my agent 1:1 about my latest WIP, and I'll be learning the ropes of literary conferences.  I've done my fair share of academic conferences, and I'm fairly sure that the rules about "the conference at the bar" apply in the literary world just as they do in the academic world...
