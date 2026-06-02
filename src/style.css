@@ -5,8 +5,8 @@
   line-height: 1.5;
   font-weight: 400;
 
-  --text-color-dark: #c0c1c5;
-  --background-color-dark:  #413b3b;
+  --text-color-dark: #e7e7d2;
+  --background-color-dark:  #000000;
   
   --text-color-light: var(--background-color-dark);
   --background-color-light: var(--text-color-dark);
@@ -15,7 +15,7 @@
    --background-color: var(--background-color-light);
 
   --nav-bar-color:  #6b9488;
-  --nav-bar-text-color: rgb(255, 255, 255);
+  --nav-bar-text-color: var(--text-color-light);
   --link-color: #646cff;
   --link-hover-color:  #848af1;
 
@@ -184,6 +184,7 @@ h1 {
   :root {
     color: var(--text-color-dark);
     background-color: var(--background-color-dark);
+    --nav-bar-text-color: var(--text-color-dark);
   }
 
 a {
