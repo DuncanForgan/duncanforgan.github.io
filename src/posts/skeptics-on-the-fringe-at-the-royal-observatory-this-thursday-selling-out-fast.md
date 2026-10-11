@@ -1,0 +1,5 @@
+# Skeptics on the Fringe, at the Royal Observatory This Thursday (Selling out Fast!)
+
+Just a very quick plug for some Edinburgh Fringe events I'm helping to organise.  Along with the Edinburgh Skeptics, the [Royal Observatory Edinburgh](http://www.roe.ac.uk/vc/public-events/special-events.html) is hosting [two shows of science](http://www.edinburghskeptics.co.uk/sotf-royal-observatory/), music and comedy.  We'll be mixing presentations from ROE scientists with science-themed Fringe acts.  Our scientists are picked from the Observatory's Public Speaking Club (which I've been running for the last six months).
+Our first show is this Thursday (the 11th, tickets [here](http://roeskeptics2.eventbrite.com/) and going fast), and our second show is the following Thursday (18th, [sadly sold out](http://roeskeptics.eventbrite.com/)). You can see the line-ups here.
+This week's show features [Sarah Angliss](http://www.spacedogmusic.com/fr_home.cfm), who uses theremin music and dancing robots in her act.  I can't wait to see it in person!
