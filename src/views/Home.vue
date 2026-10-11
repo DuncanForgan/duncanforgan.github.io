@@ -58,4 +58,9 @@ border-bottom: 0px;
   background-color: var(--theme-primary);
 }
 
+.home img {
+  max-width: 100%;
+  height: auto;
+}
+
 </style>
