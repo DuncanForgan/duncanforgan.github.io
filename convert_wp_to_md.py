@@ -63,15 +63,35 @@ def slugify(text: str) -> str:
     return text.strip("-")
 
 
+_IMG = r"(?:\[!\[[^\]]*\]\([^)]*\)\]\([^)]*\)|!\[[^\]]*\]\([^)]*\))"
+_CAPTION_RE = re.compile(r"\[caption\b([^\]]*)\]\s*(" + _IMG + r")(.*?)\[/caption\]", re.S)
+
+
+def convert_captions(markdown: str) -> str:
+    """Turn WordPress [caption] shortcodes into an image followed by an italic caption paragraph."""
+    def replace(m: re.Match) -> str:
+        attrs, img, inner = m.group(1), m.group(2), m.group(3).strip()
+        attr_match = re.search(r'caption="(.*)"\s*$', attrs)
+        caption = inner or (attr_match.group(1).strip() if attr_match else "")
+        caption = re.sub(r"\s*\n\s*", " ", caption)
+        out = f"\n\n{img}\n\n"
+        if caption:
+            mark = "_" if "*" in caption else "*"
+            out += f"{mark}{caption}{mark}\n\n"
+        return out
+
+    return re.sub(r"\n{3,}", "\n\n", _CAPTION_RE.sub(replace, markdown))
+
+
 def html_to_markdown(html: str) -> str:
     """Convert an HTML string to clean Markdown."""
-    return md(
+    return convert_captions(md(
         html,
         heading_style="ATX",      # Use # style headings
         bullets="-",               # Use - for unordered lists
         newline_style="backslash", # Preserve intentional line breaks
         strip=["script", "style"],
-    ).strip()
+    )).strip()
 
 
 def extract_excerpt(markdown_body: str, max_chars: int = 150) -> str:

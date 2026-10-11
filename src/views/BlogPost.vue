@@ -79,6 +79,7 @@ onMounted(async () => {
 .markdown-content {
   line-height: 1.8;
   color: var(--text-color-light);
+  overflow-wrap: anywhere;
 }
 
 .markdown-content :deep(h1),
@@ -96,6 +97,13 @@ onMounted(async () => {
 
 .markdown-content :deep(p) {
   margin-bottom: 1rem;
+}
+
+.markdown-content :deep(img) {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
 }
 
 .markdown-content :deep(code) {
