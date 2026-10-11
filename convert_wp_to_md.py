@@ -8,18 +8,23 @@ Usage:
 
 For each published post the script will:
   - Write a .md file to src/posts/{slug}.md
-  - Print the blogPosts.js config entry to stdout
+  - Download any images referenced in the post into public/images/posts/{slug}/
+    and rewrite the Markdown to point at the local copies
+  - Write the blogPosts.js config entry to blogPosts_entries.tmp.js
 
-After running, copy the printed entries into src/config/blogPosts.js in
-date order alongside any existing posts.
+After running, copy the entries from blogPosts_entries.tmp.js into
+src/config/blogPosts.js in date order alongside any existing posts.
 """
 
 import argparse
 import re
 import sys
 import textwrap
+import urllib.error
+import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from urllib.parse import unquote, urlparse
 
 try:
     from markdownify import markdownify as md
@@ -142,10 +147,52 @@ def iter_posts(root: ET.Element) -> list[dict]:
     return posts
 
 
-def write_markdown(post: dict, posts_dir: Path) -> Path:
-    """Write a single post as a Markdown file and return the path."""
-    body = html_to_markdown(post["content"])
+IMAGE_PATTERN = re.compile(r'(!\[[^\]]*\]\()([^)\s]+)((?:\s+"[^"]*")?\))')
 
+
+def download_images(markdown_body: str, slug: str, images_dir: Path, dry_run: bool = False) -> str:
+    """
+    Download any remote images referenced in markdown_body into
+    images_dir/{slug}/ and rewrite the links to point at the local copies
+    (served from /images/posts/{slug}/... via the public/ directory).
+    """
+
+    def replace(match: re.Match) -> str:
+        prefix, url, suffix = match.groups()
+        if not url.lower().startswith(("http://", "https://")):
+            return match.group(0)
+
+        filename = Path(unquote(urlparse(url).path)).name
+        if not filename:
+            return match.group(0)
+
+        local_url = f"/images/posts/{slug}/{filename}"
+
+        if dry_run:
+            print(f"  [dry-run] Would download image: {url}")
+            return f"{prefix}{local_url}{suffix}"
+
+        dest_dir = images_dir / slug
+        dest_dir.mkdir(parents=True, exist_ok=True)
+        dest_file = dest_dir / filename
+
+        if not dest_file.exists():
+            try:
+                request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(request, timeout=15) as response:
+                    dest_file.write_bytes(response.read())
+                print(f"  Downloaded image: {filename}")
+            except (urllib.error.URLError, OSError, ValueError) as exc:
+                print(f"  Warning: failed to download {url}: {exc}", file=sys.stderr)
+                return match.group(0)
+
+        return f"{prefix}{local_url}{suffix}"
+
+    return IMAGE_PATTERN.sub(replace, markdown_body)
+
+
+def write_markdown(post: dict, body: str, posts_dir: Path) -> Path:
+    """Write a single post as a Markdown file and return the path."""
     # Build the file content: # Title heading + blank line + body
     md_content = f"# {post['title']}\n\n{body}\n"
 
@@ -179,20 +226,27 @@ def main() -> None:
         help="Directory to write .md files into (default: src/posts/)",
     )
     parser.add_argument(
+        "--images-dir",
+        default=str(Path(__file__).parent / "public" / "images" / "posts"),
+        help="Directory to download post images into (default: public/images/posts/)",
+    )
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Print what would be done without writing any files",
     )
     args = parser.parse_args()
 
-    wxr_path  = Path(args.wxr_file)
-    posts_dir = Path(args.posts_dir)
+    wxr_path   = Path(args.wxr_file)
+    posts_dir  = Path(args.posts_dir)
+    images_dir = Path(args.images_dir)
 
     if not wxr_path.exists():
         sys.exit(f"Error: file not found: {wxr_path}")
 
     if not args.dry_run:
         posts_dir.mkdir(parents=True, exist_ok=True)
+        images_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"Parsing {wxr_path} …\n")
 
@@ -213,13 +267,14 @@ def main() -> None:
     js_entries = []
 
     for post in posts:
-        body    = html_to_markdown(post["content"])
+        body = html_to_markdown(post["content"])
+        body = download_images(body, post["slug"], images_dir, dry_run=args.dry_run)
         excerpt = extract_excerpt(body)
 
         if args.dry_run:
             print(f"[dry-run] Would write: {posts_dir / post['slug']}.md")
         else:
-            out_path = write_markdown(post, posts_dir)
+            out_path = write_markdown(post, body, posts_dir)
             print(f"Written:  {out_path}")
 
         js_entries.append(format_js_entry(post, excerpt))
@@ -245,7 +300,7 @@ def main() -> None:
     print("Next steps:")
     print("  1. Review the generated .md files in src/posts/")
     print("  2. Check for WordPress shortcodes (e.g. [gallery]) that need manual cleanup")
-    print("  3. Decide whether to hotlink or locally host any images")
+    print("  3. Review downloaded images in public/images/posts/")
     print("  4. Paste blogPosts_entries.tmp.js contents into src/config/blogPosts.js")
 
 
