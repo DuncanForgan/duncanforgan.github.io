@@ -6,7 +6,7 @@ I may have come to this story a little late in the day, but I cannot simply let 
 
 *Scone New*
 
-[Given previous posts](http://wellbredinsolence.wordpress.com/2010/03/27/dawkins-aint-so-deluded-after-all/ "Dawkins ain’t so deluded after all…"), you will have no doubt identified me as an atheist.  That is true, but in my youth I attended Scone Old, and I was a member of the Boys' Brigade company attached to it, which at that time was referred to as the 15th Perth (Scone).  It played a big role in my formative years, and I daresay that I owe much of what is good about me to the experiences I had in and around that church.  It saddens me greatly that the decision went against Scone Old.
+[Given previous posts](/blog/dawkins-aint-so-deluded-after-all "Dawkins ain’t so deluded after all…"), you will have no doubt identified me as an atheist.  That is true, but in my youth I attended Scone Old, and I was a member of the Boys' Brigade company attached to it, which at that time was referred to as the 15th Perth (Scone).  It played a big role in my formative years, and I daresay that I owe much of what is good about me to the experiences I had in and around that church.  It saddens me greatly that the decision went against Scone Old.
 
 [![](/images/posts/scone-old-parish-church-an-atheists-lament/dscf4929.jpg "DSCF4929")](http://wellbredinsolence.files.wordpress.com/2011/05/dscf4929.jpg)
 

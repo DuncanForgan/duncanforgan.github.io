@@ -1,7 +1,7 @@
 # Thesis Anthology Part 3: Breaking Up a Disc Is Hard To Do
 
 Here's part 3 of my thesis anthology.  I've set the scene for my thesis, and I've told you a little about the methods I've developed to do my science.  I'm now going to tell you exactly what I did with those methods.
-[In part 2](http://wellbredinsolence.wordpress.com/2010/05/19/thesis-anthology-part-2-how-do-i-do-what-i-do/), I put a pretty picture of one of my simulated discs fragmenting into pieces:
+[In part 2](/blog/thesis-anthology-part-2-how-do-i-do-what-i-do), I put a pretty picture of one of my simulated discs fragmenting into pieces:
 [![](/images/posts/thesis-anthology-part-3-breaking-up-a-disc-is-hard-to-do/snapshot-2010-05-16-16-32-20.png "Snapshot 2010-05-16 16-32-20")](http://wellbredinsolence.files.wordpress.com/2010/05/snapshot-2010-05-16-16-32-20.png)
 That's quite a nice picture, but we find that it's very difficult in reality to make discs do this.  To find out why, we have to know what conditions we need to fulfill to make a disc break up.
 Firstly, the disc needs to be *gravitationally unstable*.  This means the disc has to have a "strong" gravitational field (which means it needs to be massive), and it needs to be able to concentrate that mass well, which means the disc needs to be thin.  How thin the disc can get depends on two things:

@@ -1,6 +1,6 @@
 # What fell off my shoulders in 2019
 
-I have an urge to write a review of the year (probably because I wrote so many for [Research the Headlines](https://duncanforgan.wordpress.com/2013/08/31/young-academy-of-scotland-launches-research-the-headlines/) over the years). This isn't really a review, more another cathartic blerp of words like [my last post.](https://duncanforgan.wordpress.com/2019/03/25/on-leaving-academia/)
+I have an urge to write a review of the year (probably because I wrote so many for [Research the Headlines](/blog/young-academy-of-scotland-launches-research-the-headlines) over the years). This isn't really a review, more another cathartic blerp of words like [my last post.](/blog/on-leaving-academia)
 Spotify encouraged me by reminding me of the music I listened to this year. Seeing that track list propelled me back into May, when I burst into tears after finishing this run:
 ![](/images/posts/what-fell-off-my-shoulders-in-2019/img_1178-1.png)
 It was the first 5k I had run (since quitting academia) where I felt like part of my old fitness had come back. I felt 25 again.
