@@ -4,7 +4,7 @@ Research reported in the New Scientist this week suggests that the internal mono
 80% of of our mental experience is verbal, rather than visual or emotional (Psychological Medicine, vol. 24, p. 395).  Numerous studies have shown that applying linguistic "tags" to objects allows us to categorise and remember them more easily.  The [Whorfian Hypothesis](http://en.wikipedia.org/wiki/Whorfian_hypothesis), which suggests that cognition is explicitly encoded by language, appears to be gathering strength.
 If language (and semantics, the attachment of meaning to words and symbols) is a prerequisite for cognition and ultimately self-awareness, then what of the so-called semantic web?  This proposed version of the Internet will know from the context when you search for "Chicago" you mean the musical, not the city, resulting in a web that no longer requires a human user to sift search results and mine data.  While making the Internet more user-friendly is laudable, what are the consequences of a web which understands meaning?
 
-[![](/images/posts/if-language-is-consciousness-what-of-the-semantic-web/internet_graphic.png "internet_graphic")](http://wellbredinsolence.files.wordpress.com/2010/09/internet_graphic.png)
+[![](/images/posts/if-language-is-consciousness-what-of-the-semantic-web/internet_graphic.png "internet_graphic")](/images/posts/if-language-is-consciousness-what-of-the-semantic-web/internet_graphic.png)
 
 *Image credit: http://blsciblogs.baruch.cuny.edu/com3068/*
 

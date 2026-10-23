@@ -2,13 +2,13 @@
 
 I may have come to this story a little late in the day, but I cannot simply let this decision pass without comment.  For those of you who don't know, the village of Scone in Scotland has been undergoing some ecclesiastical upheaval of late, concerning the merger of the two main churches in the village, Scone Old Parish Church and Scone New.  A unified church needs only one place of worship, and there has been protracted discussion as to which church is to be selected.  The [decision was recently made](http://www.bbc.co.uk/news/uk-scotland-tayside-central-12937285) to maintain Scone New as the place of worship, leaving the fate of Scone Old somewhat uncertain.
 
-[![](/images/posts/scone-old-parish-church-an-atheists-lament/churchvert.jpg "churchvert")](http://wellbredinsolence.files.wordpress.com/2011/05/churchvert.jpg)
+[![](/images/posts/scone-old-parish-church-an-atheists-lament/churchvert.jpg "churchvert")](/images/posts/scone-old-parish-church-an-atheists-lament/churchvert.jpg)
 
 *Scone New*
 
-[Given previous posts](http://wellbredinsolence.wordpress.com/2010/03/27/dawkins-aint-so-deluded-after-all/ "Dawkins ain’t so deluded after all…"), you will have no doubt identified me as an atheist.  That is true, but in my youth I attended Scone Old, and I was a member of the Boys' Brigade company attached to it, which at that time was referred to as the 15th Perth (Scone).  It played a big role in my formative years, and I daresay that I owe much of what is good about me to the experiences I had in and around that church.  It saddens me greatly that the decision went against Scone Old.
+[Given previous posts](/blog/dawkins-aint-so-deluded-after-all "Dawkins ain’t so deluded after all…"), you will have no doubt identified me as an atheist.  That is true, but in my youth I attended Scone Old, and I was a member of the Boys' Brigade company attached to it, which at that time was referred to as the 15th Perth (Scone).  It played a big role in my formative years, and I daresay that I owe much of what is good about me to the experiences I had in and around that church.  It saddens me greatly that the decision went against Scone Old.
 
-[![](/images/posts/scone-old-parish-church-an-atheists-lament/dscf4929.jpg "DSCF4929")](http://wellbredinsolence.files.wordpress.com/2011/05/dscf4929.jpg)
+[![](/images/posts/scone-old-parish-church-an-atheists-lament/dscf4929.jpg "DSCF4929")](/images/posts/scone-old-parish-church-an-atheists-lament/dscf4929.jpg)
 
 *Scone Old Parish Church*
 

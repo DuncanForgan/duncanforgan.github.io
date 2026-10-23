@@ -5,7 +5,7 @@ It does indeed suck that this is a zero-sum game (in fact, probably negative-sum
 I'm not here to point the finger, or begin arguments.  I just want to mention that while JUICE might not be good for everyone, it is good for many other people.
 One thing I've heard many times from detractors is that [Juno](http://www.nasa.gov/mission_pages/juno/overview/index.html), a NASA mission, is already on its way to Jupiter.  True, and admittedly there are overlaps in the missions, but its ultimate objectives are completely different to those proposed for JUICE.  Juno will map the magnetosphere of the planet, and assess its atmospheric water content - ultimately, it hopes to assess the nature of Jupiter's core, a long standing question in planet formation theory. More than this, Juno will reach Jupiter in 2016 (after a quick swoop past Earth in 2013 to pick up some extra momentum we're not needing).  JUICE won't arrive until the 2030s, long after the Juno data is picked clean.
 
-[![](/images/posts/the-good-things-about-juice/juno.jpg "juno")](http://wellbredinsolence.files.wordpress.com/2012/05/juno.jpg)
+[![](/images/posts/the-good-things-about-juice/juno.jpg "juno")](/images/posts/the-good-things-about-juice/juno.jpg)
 
 *Artist's impression of Juno as it arrives at Jupiter (Credit: NASA/JPL)*
 

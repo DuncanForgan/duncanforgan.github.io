@@ -3,13 +3,13 @@
 NASA's Mars Reconnaissance Orbiter has discovered what amounts to the [best evidence yet for liquid water on Mars](http://www.nasa.gov/mission_pages/MRO/news/mro20110804.html).  Let's be clear though, it's not exactly a flowing spring, and you're unlikely to be drinking this stuff fresh out of the ground, but the odds are now much better for extremophilic bacteria surviving on the Red Planet.
 The results were reported [in Science today](http://www.sciencemag.org/content/333/6043/740) (I was able to access through University subscriptions, but I am afraid that it's behind a paywall).   H2O is somewhat old news on Mars, at least in ice form - we've been aware of subsurface ice there for some time now.  What the MRO has discovered is an evolving landscape:
 
-[![](/images/posts/best-evidence-yet-for-flowing-water-on-mars/577181main_pia14470-43_946-710.jpg "577181main_pia14470-43_946-710")](http://wellbredinsolence.files.wordpress.com/2011/08/577181main_pia14470-43_946-710.jpg)
+[![](/images/posts/best-evidence-yet-for-flowing-water-on-mars/577181main_pia14470-43_946-710.jpg "577181main_pia14470-43_946-710")](/images/posts/best-evidence-yet-for-flowing-water-on-mars/577181main_pia14470-43_946-710.jpg)
 
 *Image Credit: NASA/JPL-Caltech/ASU/UA/LANL/MSSS*
 
 This graphic shows findings from the MRO (squares) mapped on top of previous findings of the Mars Odyssey probe (colour map), which traced the subsurface ice, concentrated at the poles (at the top and bottom of the image).  The white squares indicate recent impact craters which revealed water ice.  The red squares mark chlorite deposits - these are typically left behind by evaporated saltwater.  The blue squares are where the most exciting action is:
 
-[![](/images/posts/best-evidence-yet-for-flowing-water-on-mars/577359main_pia14472-946b.gif "577359main_pia14472-946b")](http://wellbredinsolence.files.wordpress.com/2011/08/577359main_pia14472-946b.gif)
+[![](/images/posts/best-evidence-yet-for-flowing-water-on-mars/577359main_pia14472-946b.gif "577359main_pia14472-946b")](/images/posts/best-evidence-yet-for-flowing-water-on-mars/577359main_pia14472-946b.gif)
 
 *Image Credit: NASA/JPL-Caltech/Univ. of Arizona*
 
