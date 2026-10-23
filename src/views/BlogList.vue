@@ -22,6 +22,9 @@
           <h2>{{ post.title }}</h2>
           <p class="date">{{ post.date }}</p>
           <p class="excerpt">{{ post.excerpt }}</p>
+          <ul v-if="post.tags?.length" class="tags" aria-label="Tags">
+            <li v-for="tag in post.tags" :key="tag" class="tag">{{ tag }}</li>
+          </ul>
           <router-link :to="`/blog/${post.slug}`" class="read-more">Read More →</router-link>
         </div>
       </div>
@@ -159,6 +162,22 @@ const toggleAll = () => {
   margin-top: 1rem;
   text-decoration: none;
   font-weight: 600;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0;
+  margin: 1rem 0 0;
+  list-style: none;
+}
+
+.tag {
+  border: 1px solid var(--theme-border);
+  border-radius: 1rem;
+  padding: 0.2rem 0.75rem;
+  font-size: 0.9rem;
 }
 
 .nav-links {
