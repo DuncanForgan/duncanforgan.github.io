@@ -1,3 +1,10 @@
+---
+title: Life on Planets where 3 Spins = 2 Orbits
+date: 2014-03-03
+excerpt: It's been my pleasure to help on a recent paper to be published in the
+  International Journal of Astrobiology, about how life might be on a planet...
+---
+
 # Life on Planets where 3 Spins = 2 Orbits
 
 It's been my pleasure to help on a recent [paper](http://arxiv.org/abs/1402.5044) to be published in the International Journal of Astrobiology, about how life might be on a planet with a peculiar spin.

@@ -1,3 +1,10 @@
+---
+title: Unexpectedly, I respect Simon Cowell, but not the Audience
+date: 2010-11-08
+excerpt: A lack of focus at the moment (plus the looming spectre of my PhD viva)
+  has left this blog a little neglected, so I'll fall back on the...
+---
+
 # Unexpectedly, I respect Simon Cowell, but not the Audience
 
 A lack of focus at the moment (plus the looming spectre of my PhD viva) has left this blog a little neglected, so I'll fall back on the barely-directed invective option.

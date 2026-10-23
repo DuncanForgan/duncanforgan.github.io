@@ -1,3 +1,11 @@
+---
+title: Snow Brings Out the Apocalypse in All of Us
+date: 2011-01-09
+excerpt: It continues to snow in Edinburgh, nearly two months after winter got
+  the jump on us (and the rest of the UK) at the end of November. While we're
+  now...
+---
+
 # Snow Brings Out the Apocalypse in All of Us
 
 [![](/images/posts/snow-brings-out-the-apocalypse-in-all-of-us/img_0106.jpg "IMG_0106")](http://wellbredinsolence.files.wordpress.com/2011/01/img_0106.jpg)

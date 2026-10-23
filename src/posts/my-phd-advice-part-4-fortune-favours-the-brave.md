@@ -1,3 +1,11 @@
+---
+title: "My PhD Advice, Part 4: Fortune Favours the Brave"
+date: 2011-03-14
+excerpt: Apologies for last week's blip in this series of posts - the events of
+  the last week have been a little distracting. Let's keep going with my
+  pearls...
+---
+
 # My PhD Advice, Part 4: Fortune Favours the Brave
 
 Apologies for last week's blip in this series of posts - the events of the last week have been a little distracting.  Let's keep going with my pearls of wisdom.  This week's one is quite general, and the title says it all.  There are several things you need to be brave about - the first is bravery in research itself.

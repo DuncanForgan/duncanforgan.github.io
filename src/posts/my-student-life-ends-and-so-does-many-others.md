@@ -1,3 +1,11 @@
+---
+title: My Student Life ends - and so does Many Other's
+date: 2010-12-09
+excerpt: A week ago today, I defended my PhD thesis and passed (with minor
+  corrections, which I've nearly finished!). Today, student tuition fees are set
+  to...
+---
+
 # My Student Life ends - and so does Many Other's
 
 A week ago today, I defended my PhD thesis and passed (with minor corrections, which I've nearly finished!).  Today, student tuition fees are set to rise (in England), up to £9,000 per annum.  As my student life officially ends, I can't help but feel like I somehow cheated the system.

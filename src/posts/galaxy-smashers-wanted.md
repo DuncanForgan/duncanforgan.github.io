@@ -1,3 +1,11 @@
+---
+title: Galaxy Smashers Wanted...
+date: 2009-12-01
+excerpt: Unleash the destructive child in you! The brilliant Galaxy Zoo website
+  just gets even better. The ultimate citizen science project, Galaxy Zoo
+  asks...
+---
+
 # Galaxy Smashers Wanted...
 
 Unleash the destructive child in you!

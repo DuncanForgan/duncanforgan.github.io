@@ -1,3 +1,11 @@
+---
+title: Kepler Ups the Ante with 312 Planets
+date: 2010-06-16
+excerpt: The field of planet detection undergoes a step change this week, as the
+  Kepler team detail 312 exoplanet candidates, almost doubling the total
+  number...
+---
+
 # Kepler Ups the Ante with 312 Planets
 
 The field of planet detection undergoes a step change this week, as the Kepler team [detail 312 exoplanet candidates](http://arxiv.org/abs/1006.2799), almost doubling the total number of known exoplanets.  Up until now, planet-hunters have had to rely on a drip-feed of new results.  While we've been doing an awful lot better since the first detections in the nineties (see graph), we're still only detecting tens of planets a year.

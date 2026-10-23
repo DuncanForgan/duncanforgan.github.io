@@ -1,3 +1,10 @@
+---
+title: My Writing Manifesto
+date: 2021-06-03
+excerpt: I want to write and publish fiction - I have done since I was about 11.
+  But for many reasons, I struggle to do it. I don’t lack the ability or...
+---
+
 # My Writing Manifesto
 
 I want to write and publish fiction - I have done since I was about 11. But for many reasons, I struggle to do it.

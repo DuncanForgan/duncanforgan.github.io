@@ -1,3 +1,11 @@
+---
+title: Space Station a waste of Space? Have Your Say
+date: 2010-01-14
+excerpt: It is the largest artificial satellite known to exist - the result of
+  an impressive international collaboration involving all the major players
+  in...
+---
+
 # Space Station a waste of Space? Have Your Say
 
 It is the largest artificial satellite known to exist - the result of an impressive international collaboration involving all the major players in space exploration.  But what now?

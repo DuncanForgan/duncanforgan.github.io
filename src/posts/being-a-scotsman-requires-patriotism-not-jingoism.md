@@ -1,3 +1,11 @@
+---
+title: Being a Scotsman requires Patriotism, not Jingoism
+date: 2009-12-02
+excerpt: I've managed to avoid the temptation to blog on this for a whole two
+  days, but I can't hold my tongue anymore. Alex Salmond wants a referendum
+  on...
+---
+
 # Being a Scotsman requires Patriotism, not Jingoism
 
 I've managed to avoid the temptation to blog on this for a whole two days, but I can't hold my tongue anymore.  Alex Salmond wants a referendum on independence for Scotland - and I believe if you really understand what it means to be a Scotsman, you will fight tooth and nail for the Union.

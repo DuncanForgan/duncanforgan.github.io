@@ -1,3 +1,9 @@
+---
+title: What if Civilisations Act Like Parasites? Implications for SETI
+date: 2013-11-05
+excerpt: We have no way of...
+---
+
 # What if Civilisations Act Like Parasites? Implications for SETI
 
 [![The parasitic alien civilisation in Independence Day](/images/posts/what-if-civilisations-act-like-parasites-implications-for-seti/tumblr_m64misawoz1qaonh9o1_500.jpg)](http://wellbredinsolence.files.wordpress.com/2013/11/tumblr_m64misawoz1qaonh9o1_500.jpg)

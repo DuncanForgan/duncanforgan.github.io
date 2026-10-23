@@ -1,3 +1,11 @@
+---
+title: Insurers are Right to Discriminate - We've Got More Important Gaps to Fix
+date: 2011-03-01
+excerpt: The European Court of Justice's ruling regarding gender disparity in
+  insurance and pension is surely a dangerous precedent. It's almost always a
+  good...
+---
+
 # Insurers are Right to Discriminate - We've Got More Important Gaps to Fix
 
 The European Court of Justice's ruling regarding [gender disparity in insurance and pension](http://www.bbc.co.uk/news/business-12606610) is surely a dangerous precedent.  It's almost always a good thing to remove gender disparity - that I agree with - but is 'almost always' = 'always'?

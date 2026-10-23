@@ -1,3 +1,11 @@
+---
+title: Talking Exoplanets at the Astrobiology Summer School (Edinburgh)
+date: 2018-09-06
+excerpt: It was a great pleasure to be invited to lecture at the Astrobiology
+  Society of Britain's Summer School this week at the University of Edinburgh.
+  I...
+---
+
 # Talking Exoplanets at the Astrobiology Summer School (Edinburgh)
 
 It was a great pleasure to be invited to lecture at the Astrobiology Society of Britain's Summer School this week at the University of Edinburgh.  I really enjoyed getting to know the latest crop of UK PhD students studying a range of topics related to Life in the Universe, from engineering to microbiology to glaciology.

@@ -1,3 +1,11 @@
+---
+title: "My PhD Advice, Part 7: Endgame - the Viva"
+date: 2011-04-04
+excerpt: The end is nigh - you've finished and submitted your thesis. Now you've
+  got to just get that doctorate...I must warn you all at this point. I'm
+  aware...
+---
+
 # My PhD Advice, Part 7: Endgame - the Viva
 
 The end is nigh - you've finished and submitted your thesis.  Now you've got to just get that doctorate...I must warn you all at this point.  I'm aware that the assessment system for PhDs varies greatly between countries.  Having only got one PhD, I can only relate my own experience (which of course are relevant for UK PhDs).  For example, Australian PhDs have no oral defence (although the thesis is still assessed by two examiners), and other countries' oral defenses are extended seminars given to a larger audience.

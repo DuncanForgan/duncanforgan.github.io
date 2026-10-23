@@ -1,3 +1,10 @@
+---
+title: James Webb Space Telescope Funding to be Terminated
+date: 2011-07-06
+excerpt: The James Webb Space Telescope (JWST), the successor to the Hubble
+  Space Telescope, is close to losing all its funding. The fiscal year 2012...
+---
+
 # James Webb Space Telescope Funding to be Terminated
 
 The James Webb Space Telescope ([JWST](http://www.jwst.nasa.gov/index.html)), the successor to the Hubble Space Telescope, is close to losing all its funding.  The fiscal year 2012 Commerce, Justice, Science Appropriations bill, being considered by the US government's House Appropriation Committee [(see the release here)](http://appropriations.house.gov/News/DocumentSingle.aspx?DocumentID=250023), is to recommend $1.6 billion dollar cuts to the total NASA budget, with about half a billion disappearing from its Science programs.

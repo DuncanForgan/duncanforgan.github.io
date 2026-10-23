@@ -1,3 +1,11 @@
+---
+title: "Thesis Anthology Part 3: Breaking Up a Disc Is Hard To Do"
+date: 2010-07-12
+excerpt: Here's part 3 of my thesis anthology. I've set the scene for my thesis,
+  and I've told you a little about the methods I've developed to do my
+  science...
+---
+
 # Thesis Anthology Part 3: Breaking Up a Disc Is Hard To Do
 
 Here's part 3 of my thesis anthology.  I've set the scene for my thesis, and I've told you a little about the methods I've developed to do my science.  I'm now going to tell you exactly what I did with those methods.

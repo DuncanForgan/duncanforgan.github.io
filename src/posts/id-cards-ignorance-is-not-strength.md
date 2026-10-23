@@ -1,3 +1,10 @@
+---
+title: "ID Cards: Ignorance is not Strength"
+date: 2009-10-18
+excerpt: Well, I did promise to stop yammering on about aliens... For those of
+  you not in the UK, ID cards have been simmering away in the background of...
+---
+
 # ID Cards: Ignorance is not Strength
 
 Well, I did promise to stop yammering on about aliens...

@@ -1,3 +1,11 @@
+---
+title: Starcraft as a Citizen Science Tool
+date: 2013-03-05
+excerpt: In a similar vein to last week's post, I'm proud to show you results
+  from an outreach project I've been working on with Tom Targett at the ROE
+  for...
+---
+
 # Starcraft as a Citizen Science Tool
 
 In a similar vein to [last week's post](http://wellbredinsolence.wordpress.com/2013/02/25/galactic-grand-tours-and-strengthening-fermis-paradox/ "Galactic Grand Tours, and strengthening Fermi’s Paradox"), I'm proud to show you results from an outreach project I've been working on with [Tom Targett](http://www.roe.ac.uk/ifa/people/tat.html) at the ROE for the last few months.  As the result of a rather long-winded discussion of interstellar colonisation at coffee time, we got to thinking about how rigorously we could simulate conflict between competing civilisations.

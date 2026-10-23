@@ -1,3 +1,11 @@
+---
+title: What makes a Brown Dwarf and a Massive Gas Giant Different? Have Your Say
+date: 2013-09-02
+excerpt: I'm off to the University of Hertfordshire in Hatfield, to speak at a
+  conference on what makes exoplanets and brown dwarfs different (if
+  anything)...
+---
+
 # What makes a Brown Dwarf and a Massive Gas Giant Different? Have Your Say
 
 I'm off to the University of Hertfordshire in Hatfield, to speak at a [conference](http://www.star.herts.ac.uk/mindthegap/) on what makes exoplanets and brown dwarfs different (if anything).

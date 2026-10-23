@@ -1,3 +1,11 @@
+---
+title: The Decay of Scientists into Celebrities (with surprisingly short half-life)
+date: 2010-06-06
+excerpt: We should have seen it coming. It started with the artists, and now
+  it's happening to the scientists...like it or not, one of the greatest
+  human...
+---
+
 # The Decay of Scientists into Celebrities (with surprisingly short half-life)
 
 We should have seen it coming.  It started with the artists, and now it's happening to the scientists...like it or not, one of the greatest human endeavours ever conceived is becoming irreversibly cheapened.  I watched an advert this week for a new TV program promising answers to some interesting questions to sport science.  The initial concept I have no qualms with - in fact, on first glance I would probably be quite interested.  The second glance was less inspiring: the first episode invited an in-depth discussion of why men feel such pain at being struck in their reproductive region.  While a bit less high-brow, I still thought the program might still approach the subject with as much intelligence as is possible for such a scatological topic.

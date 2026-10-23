@@ -1,3 +1,11 @@
+---
+title: HARPS Plucks Out 32 Extrasolar Planets
+date: 2009-10-20
+excerpt: As far as detecting exoplanets go, it's the oldest game in town... The
+  Radial Velocity or Doppler Wobble technique looks for rhythmic fluctuations
+  in...
+---
+
 # HARPS Plucks Out 32 Extrasolar Planets
 
 As far as detecting exoplanets go, it's the oldest game in town...

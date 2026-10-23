@@ -1,3 +1,11 @@
+---
+title: Betting on Planet Formation, and Century-old Insider Tips
+date: 2011-08-03
+excerpt: In my field of work, it's the biggest game in town. How exactly do you
+  predict how massive a planet will be before it's even fully formed? I may
+  not...
+---
+
 # Betting on Planet Formation, and Century-old Insider Tips
 
 In my field of work, it's the biggest game in town.  How exactly do you predict how massive a planet will be before it's even fully formed? I may not have the sure bet, but we've been working on [ways to shorten the odds](http://arxiv.org/abs/1107.0831).

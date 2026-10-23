@@ -1,3 +1,11 @@
+---
+title: On the Related Problems of Postdoc and Planetary Growth
+date: 2011-07-29
+excerpt: Some recent tweets about fellowship requirements got me to thinking. As
+  an astrophysicist with an interest in planet formation, the analogies
+  between...
+---
+
 # On the Related Problems of Postdoc and Planetary Growth
 
 Some recent tweets about fellowship requirements got me to thinking.  As an astrophysicist with an interest in planet formation, the analogies between growing a planet and growing an academic have been yammering in my brain all day, so I might as well splurge them here.

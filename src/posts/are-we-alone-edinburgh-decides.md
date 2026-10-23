@@ -1,3 +1,11 @@
+---
+title: Are We Alone? Edinburgh Decides
+date: 2010-02-03
+excerpt: 'On Monday, I took part in a debate about the existence of
+  extraterrestrial life. The Motion was: "Will we find life beyond ours in the
+  next 100...'
+---
+
 # Are We Alone? Edinburgh Decides
 
 On Monday, I took part in a debate about the existence of extraterrestrial life.  The Motion was:  "Will we find life beyond ours in the next 100 years?"  Sounds like a tall order? Maybe not...Finding life from other planets has eluded us for centuries.  We were pretty convinced we were close to begin with.  In fact, the Mars "canals" were so convincing that the Guzman Prize (100,000 francs) for communicating with ET excluded our Martian cousins.  Apparently that was too easy![![](/images/posts/are-we-alone-edinburgh-decides/karte_mars_schiaparelli_mkl1888.png "Karte_Mars_Schiaparelli_MKL1888")](http://wellbredinsolence.files.wordpress.com/2010/02/karte_mars_schiaparelli_mkl1888.png)

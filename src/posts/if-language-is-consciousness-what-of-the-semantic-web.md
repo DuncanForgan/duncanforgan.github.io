@@ -1,3 +1,11 @@
+---
+title: If Language is Consciousness, What of the Semantic Web?
+date: 2010-09-08
+excerpt: Research reported in the New Scientist this week suggests that the
+  internal monologue we establish is integral to understanding the world. It
+  may...
+---
+
 # If Language is Consciousness, What of the Semantic Web?
 
 Research reported in the New Scientist this week suggests that the internal monologue we establish is integral to understanding the world.  It may even have formed part of a feedback loop with cognition - using language to categorise things with words forced us to make connections between them, and begin to perceive our world.  If that's so, then what does that mean for the Web?

@@ -1,3 +1,10 @@
+---
+title: A Planet by any other Name...is better than a Phone Number
+date: 2009-10-24
+excerpt: "Which would you prefer to hear about: the planet CoRoT-3-b or the
+  planet Cratos? Since the discovery of the first exoplanet, they have been..."
+---
+
 # A Planet by any other Name...is better than a Phone Number
 
 Which would you prefer to hear about: the planet CoRoT-3-b or the planet Cratos?

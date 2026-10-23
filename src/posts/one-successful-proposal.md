@@ -1,3 +1,10 @@
+---
+title: One Successful Proposal
+date: 2011-01-24
+excerpt: With the halls of astronomy and particle physics departments ringing
+  with the clamour of worried scientists discussing the fate of their STFC...
+---
+
 # One Successful Proposal
 
 With the halls of astronomy and particle physics departments ringing with the clamour of worried scientists discussing the fate of their STFC proposals, I am pleased to report that I was successful with a completely different funding proposal.

@@ -1,3 +1,11 @@
+---
+title: This Week on PlanetWatch
+date: 2011-08-18
+excerpt: As is true of every week, there have been quite a few new extrasolar
+  planets detected. This week's batch is a mix of the weird and wonderful, so
+  as...
+---
+
 # This Week on PlanetWatch
 
 As is true of every week, there have been quite a few new extrasolar planets detected.  This week's batch is a mix of the weird and wonderful, so as part of a new running segment I'll be describing the latest finds.

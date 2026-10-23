@@ -1,3 +1,11 @@
+---
+title: What is the Habitable Zone for an Exomoon?
+date: 2013-06-24
+excerpt: The search for life in the Galaxy will soon take on a new dimension.
+  We've been searching for exoplanets in the habitable zone of their parent
+  star...
+---
+
 # What is the Habitable Zone for an Exomoon?
 
 The search for life in the Galaxy will soon take on a new dimension.  We've been searching for exoplanets in the [habitable zone](http://en.wikipedia.org/wiki/Circumstellar_habitable_zone) of their parent star.  We've even begun figuring out how this habitable zone changes when more stars are involved.  Now, the promise of exomoons puts a new spin on the habitable zone concept.

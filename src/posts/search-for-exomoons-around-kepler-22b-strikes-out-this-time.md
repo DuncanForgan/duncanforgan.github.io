@@ -1,3 +1,11 @@
+---
+title: Search for Exomoons Around Kepler-22b Strikes Out (This Time)
+date: 2013-09-23
+excerpt: It's been a real pleasure to take my theoretical work on the
+  habitability of exomoons out into reality, with the Hunt for Exomoons with
+  Kepler (HEK)...
+---
+
 # Search for Exomoons Around Kepler-22b Strikes Out (This Time)
 
 It's been a real pleasure to take my theoretical work on the [habitability of exomoons](http://wellbredinsolence.wordpress.com/2013/06/24/what-is-the-habitable-zone-for-an-exomoon/ "What is the Habitable Zone for an Exomoon?") out into reality, with the [Hunt for Exomoons with Kepler](http://www.cfa.harvard.edu/HEK/) (HEK) team. We've recently had [this paper](http://arxiv.org/abs/1306.1530) accepted for publication, where we used the Kepler Space Telescope's data on [Kepler-22b](http://en.wikipedia.org/wiki/Kepler-22b) to search for an exomoon around it.

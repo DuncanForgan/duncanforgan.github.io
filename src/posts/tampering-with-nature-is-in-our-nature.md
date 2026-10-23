@@ -1,3 +1,11 @@
+---
+title: Tampering with Nature is in our nature
+date: 2010-08-08
+excerpt: The cloning issue is back in our consciousness with a bang. The UK
+  seems to have cloned meat in its food chain and the usual ethical questions
+  are...
+---
+
 # Tampering with Nature is in our nature
 
 The cloning issue is back in our consciousness with a bang.  The UK seems to have cloned meat in its food chain and the usual ethical questions are being raised.  It's way too easy to get worked up over cloning.  "Don't tamper with Nature!" is the chant of choice.  Is that enough to stop the whole shebang?

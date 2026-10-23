@@ -1,3 +1,11 @@
+---
+title: The Thesis Anthology Begins - an Introduction
+date: 2010-04-11
+excerpt: As promised, I am going to try and serialise my thesis in layman's form
+  for your "enjoyment". As I now officially have a PDF which contains the
+  word...
+---
+
 # The Thesis Anthology Begins - an Introduction
 
 As promised, I am going to try and serialise my thesis in layman's form for your "enjoyment".  As I now officially have a PDF which contains the word "thesis" -  with text, diagrams and everything - I feel it is a good point to officially begin.  So let me introduce what on Earth it is I'm doing.My thesis will focus on *protoplanetary discs*.  These are frisbees of matter which form when stars are born.  The reason why they form is because of something called *angular momentum*.

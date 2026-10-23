@@ -1,3 +1,10 @@
+---
+title: "My PhD Advice, Part 6: The Thesis"
+date: 2011-03-28
+excerpt: OK, so my font of wisdom is drying up now - I'll head towards the end
+  of this series of posts (see here for Parts one, two, three, four and five)...
+---
+
 # My PhD Advice, Part 6: The Thesis
 
 OK, so my font of wisdom is drying up now - I'll head towards the end of this series of posts (see here for Parts [one](http://wellbredinsolence.wordpress.com/2011/02/14/my-phd-advice-part-one-choose-your-phd-carefully/ "My PhD Advice, Part One – Choose Your PhD Carefully"), [two](http://wellbredinsolence.wordpress.com/2011/02/21/my-phd-advice-part-2-build-a-good-relationship-with-your-supervisor/ "My PhD Advice, Part 2 – Build a Good Relationship with your Supervisor"), [three](http://wellbredinsolence.wordpress.com/2011/02/28/my-phd-advice-part-3-read-often-write-often/ "My PhD Advice, Part 3 – Read Often, Write Often"), [four](http://wellbredinsolence.wordpress.com/2011/03/14/my-phd-advice-part-4-fortune-favours-the-brave/ "My PhD Advice, Part 4: Fortune Favours the Brave") and [five](http://wellbredinsolence.wordpress.com/2011/03/21/my-phd-advice-part-5-theres-no-i-in-phd/ "My PhD Advice, Part 5: There’s no I in PhD")) with the penultimate event of your PhD - the thesis.

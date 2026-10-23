@@ -1,3 +1,11 @@
+---
+title: My PhD Advice, Part 2 - Build a Good Relationship with your Supervisor
+date: 2011-02-21
+excerpt: If you've survived Part One, and you've got yourself a studentship, the
+  next step is critical. Getting a good supervisor is the difference between
+  a...
+---
+
 # My PhD Advice, Part 2 - Build a Good Relationship with your Supervisor
 
 If you've survived [Part One](http://wellbredinsolence.wordpress.com/2011/02/14/my-phd-advice-part-one-choose-your-phd-carefully/ "My PhD Advice, Part One – Choose Your PhD Carefully"), and you've got yourself a studentship, the next step is critical.  Getting a good supervisor is the difference between a pleasant and utterly hellish experience.  A good supervisor will defend you and your interests, push you and motivate you, introduce you to his collaborators, and generally cultivate you as a researcher and as an individual.  A bad supervisor - well, it is all too easy in academia for PhD students to be seen as cheap labour, and that never ends well.

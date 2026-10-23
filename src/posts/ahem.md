@@ -1,3 +1,11 @@
+---
+title: Ahem...
+date: 2010-03-20
+excerpt: It has occurred to me that most of my posts are following the "opinion
+  forming" route rather than the "planet forming" route. I hope you're
+  enjoying...
+---
+
 # Ahem...
 
 It has occurred to me that most of my posts are following the "opinion forming" route rather than the "planet forming" route.  I hope you're enjoying my sporadic rantings via interwebz, but I feel duty bound to be more of an educator than a commentator.  So, I'll try to put the soap box away for the time being.

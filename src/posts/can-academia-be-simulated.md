@@ -1,3 +1,11 @@
+---
+title: Can Academia Be Simulated?
+date: 2011-10-21
+excerpt: After last week's great Astronomy Journal Club conversation, a thought
+  has been rattling around my brain. We discussed the current career
+  situation...
+---
+
 # Can Academia Be Simulated?
 
 After last week's great Astronomy Journal Club conversation, a thought has been rattling around my brain. We discussed the current [career situation in astronomy](http://astrojournalclub.wordpress.com/2011/10/14/transcript-are-science-careers-in-crisis/), which is evolving in a direction most are unhappy about / unnerved by. There were calls for the system to be consciously redesigned to produce a steady state, where the total number of PhD students entering academia is somehow balanced by professors retiring.

@@ -1,3 +1,10 @@
+---
+title: Best Evidence Yet for Flowing Water on Mars
+date: 2011-08-04
+excerpt: NASA's Mars Reconnaissance Orbiter has discovered what amounts to the
+  best evidence yet for liquid water on Mars. Let's be clear though, it's not...
+---
+
 # Best Evidence Yet for Flowing Water on Mars
 
 NASA's Mars Reconnaissance Orbiter has discovered what amounts to the [best evidence yet for liquid water on Mars](http://www.nasa.gov/mission_pages/MRO/news/mro20110804.html).  Let's be clear though, it's not exactly a flowing spring, and you're unlikely to be drinking this stuff fresh out of the ground, but the odds are now much better for extremophilic bacteria surviving on the Red Planet.

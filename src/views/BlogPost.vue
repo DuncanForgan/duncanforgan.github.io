@@ -3,9 +3,7 @@
     <div v-if="loading" class="loading">Loading...</div>
     <div v-else-if="error" class="error">{{ error }}</div>
     <div v-else class="post-content">
-      <!--<h1>{{ postTitle }}</h1>-->
-      <!-- Note: v-html is used here to render markdown. Since markdown files are -->
-      <!-- part of the repository and not user-generated, this is safe. -->
+      <h1 v-if="!hasHeading">{{ postTitle }}</h1>
       <div v-html="renderedContent" class="markdown-content"></div>
       <div class="nav-links">
         <router-link to="/blog" class="btn-back">← Back to Blog List</router-link>
@@ -15,48 +13,50 @@
 </template>
 
 <script setup>
-import { ref, onMounted, computed } from 'vue'
+import { ref, watch, computed } from 'vue'
 import { useRoute } from 'vue-router'
 import { marked } from 'marked'
+import DOMPurify from 'dompurify'
+import { blogPosts } from '../config/blogPosts'
+import { splitPost } from '../config/postContent'
 
 const route = useRoute()
 const loading = ref(true)
 const error = ref(null)
 const markdownContent = ref('')
 const postTitle = ref('')
+const hasHeading = computed(() => /^#\s+.+$/m.test(markdownContent.value))
+const posts = import.meta.glob('../posts/*.md', { query: '?raw', import: 'default' })
 
 const renderedContent = computed(() => {
   if (markdownContent.value) {
-    return marked(markdownContent.value)
+    return DOMPurify.sanitize(marked(markdownContent.value))
   }
   return ''
 })
 
-onMounted(async () => {
-  const slug = route.params.slug
+watch(() => route.params.slug, async (slug, previousSlug, onCleanup) => {
+  let cancelled = false
+  onCleanup(() => { cancelled = true })
+  loading.value = true
+  error.value = null
+  markdownContent.value = ''
   try {
-    // Import the markdown file dynamically
-    const module = await import(`../posts/${slug}.md?raw`)
-    const content = module.default
-    
-    // Extract title from first H1 heading if present
-    const titleMatch = content.match(/^#\s+(.+)$/m)
-    if (titleMatch) {
-      postTitle.value = titleMatch[1]
-    } else {
-      postTitle.value = slug.split('-').map(word => 
-        word.charAt(0).toUpperCase() + word.slice(1)
-      ).join(' ')
-    }
-    
-    markdownContent.value = content
+    const post = blogPosts.find(post => post.slug === slug)
+    const load = posts[`../posts/${slug}.md`]
+    if (!post || !load) throw new Error('Post not found')
+    const content = await load()
+    if (cancelled) return
+    postTitle.value = post.title
+    markdownContent.value = splitPost(content).body
     loading.value = false
   } catch (err) {
+    if (cancelled) return
     error.value = `Post not found: ${slug}`
     loading.value = false
     console.error('Error loading post:', err)
   }
-})
+}, { immediate: true })
 </script>
 
 <style scoped>

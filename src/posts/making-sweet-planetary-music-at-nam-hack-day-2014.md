@@ -1,3 +1,11 @@
+---
+title: Making Sweet Planetary Music at NAM Hack Day 2014
+date: 2014-06-27
+excerpt: I've been in Portsmouth this week at the RAS National Astronomy
+  Meeting. The weather has been extremely pleasant - bagged lunches on the steps
+  of the...
+---
+
 # Making Sweet Planetary Music at NAM Hack Day 2014
 
 I've been in Portsmouth this week at the [RAS National Astronomy Meeting](http://www.nam2014.org/).  The weather has been extremely pleasant - bagged lunches on the steps of the Guildhall were very pleasant, as Bob Nichol notes:

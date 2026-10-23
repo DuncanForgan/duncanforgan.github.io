@@ -1,3 +1,12 @@
+---
+title: "Dear Better Together: I was going to vote No to Independence, but you're
+  pushing me away"
+date: 2014-01-17
+excerpt: When the referendum was announced, I felt quite strongly that Scottish
+  independence was a silly idea. I'm hardly a fan of the current UK
+  Government...
+---
+
 # Dear Better Together: I was going to vote No to Independence, but you're pushing me away
 
 When the referendum was announced, I felt quite strongly that Scottish independence was a silly idea.  I'm hardly a fan of the current UK Government, but I believed in the Union as something that, on balance, [Scotland benefited from,](http://wellbredinsolence.wordpress.com/2009/12/02/being-a-scotsman-requires-patriotism-not-jingoism/ "Being a Scotsman requires Patriotism, not Jingoism") and contributed positively to.  Yes campaigners may be quick to point out that statistic about how many Westminster election results bore no relation to Scottish voting data, but I'm fairly sure that I could find more than one Scottish-sized sample of voters in the UK who were "irrelevant" in the final tally.  Anyway, with such a [poor voter turnout](http://www.ukpolitical.info/Turnout45.htm), how can any of us complain that British politics has stopped being representative? And how would an independent Scotland do any better? Would rural communities be in thrall to the Central Belt, as the UK seems to be to the South of England?

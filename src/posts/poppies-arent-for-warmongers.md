@@ -1,3 +1,10 @@
+---
+title: Poppies aren't for Warmongers
+date: 2010-11-10
+excerpt: This week, we remember those who fell in service of their country. What
+  we're not doing is glorifying their commanders who sent them to die, or the...
+---
+
 # Poppies aren't for Warmongers
 
 This week, we remember those who fell in service of their country. What we're not doing is glorifying their commanders who sent them to die, or the politicians who signed the orders. We're not simply remembering British soldiers - we're remembering all soldiers, regardless of which side they fought for. Remembrance Day and Remembrance Sunday were inaugurated to ensure those politicians who began the Great War never forget the suffering they caused.

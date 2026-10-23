@@ -1,3 +1,11 @@
+---
+title: Copenhagen is About More than Destroying the Planet
+date: 2009-12-07
+excerpt: Yes, that's right agitators and antagonists, we shouldn't be going
+  green just because we think we are scarring the planet. The "climategate" saga
+  has...
+---
+
 # Copenhagen is About More than Destroying the Planet
 
 Yes, that's right agitators and antagonists, we shouldn't be going green just because we think we are scarring the planet.  The "[climategate](http://news.bbc.co.uk/1/hi/sci/tech/8383713.stm)" saga has laid bare the complications of discussing detailed scientific practice in loose, potentially ambiguous terms, but I'm not interested in that.  I'm especially disinterested in the uproar it has caused, the calling into question of decades of unassailable data based on the wording of stolen emails that could have been more carefully written.  There is a much deeper question underlying all of this: why are we trying to go green in the first place?

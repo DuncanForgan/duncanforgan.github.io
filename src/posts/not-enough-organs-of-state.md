@@ -1,3 +1,11 @@
+---
+title: Not enough Organs of State?
+date: 2009-11-20
+excerpt: An independent Scotland affects Scots in ways they might not even
+  realise...According to today's Scotsman, an independent Scotland would not be
+  able...
+---
+
 # Not enough Organs of State?
 
 An independent Scotland affects Scots in ways they might not even realise...According to [today's Scotsman](http://thescotsman.scotsman.com/latestnews/Too-few-Scots-for-own.5842565.jp), an independent Scotland would not be able to supply sufficient donor organs to support its citizens, and would be forced to rely on post-Union cooperation with its neighbours.  To be fair, this is hardly a reason to call off the [National Conversation on Independence](http://www.scotland.gov.uk/Publications/2007/08/13103747/0) (which I disagree with for other reasons): an independent Scotland would not be an island, and very much connected to the rest of the UK through physical, social and economic ties.  Plus, the NHS in Scotland is already a slightly different beast from the NHS in other UK members: this wouldn't stop the Scottish NHS being closely linked with the UK NHS and its counterparts in Europe.

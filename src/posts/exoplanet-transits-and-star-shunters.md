@@ -1,3 +1,10 @@
+---
+title: Exoplanet Transits and Star Shunters
+date: 2013-07-04
+excerpt: If my last post on population synthesis modelling was a little dry for
+  your tastes, I hope this SETI post will whet your whistle. This particular...
+---
+
 # Exoplanet Transits and Star Shunters
 
 If my last post on population synthesis modelling was a little dry for your tastes, I hope this SETI post will whet your whistle.  This particular post comes so late that [other websites](http://news.discovery.com/space/alien-life-exoplanets/planet-searches-might-stumble-across-an-alien-stellar-engine-130625.htm#mkcpgn=rssnws1) have [already written](http://io9.com/how-to-detect-massive-alien-spaceships-powered-by-stars-586562014) about this work.  While this makes me look bad, it does mean that I will be using their very good graphics to illustrate my points.

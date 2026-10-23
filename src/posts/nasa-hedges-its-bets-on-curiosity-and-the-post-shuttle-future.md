@@ -1,3 +1,9 @@
+---
+title: NASA hedges its bets on Curiosity and the Post-Shuttle Future
+date: 2012-08-05
+excerpt: ""
+---
+
 # NASA hedges its bets on Curiosity and the Post-Shuttle Future
 
 [![](/images/posts/nasa-hedges-its-bets-on-curiosity-and-the-post-shuttle-future/597996main_2011-10-11-2_full.jpg "597996main_2011-10-11-2_full")](http://wellbredinsolence.files.wordpress.com/2012/08/597996main_2011-10-11-2_full.jpg)

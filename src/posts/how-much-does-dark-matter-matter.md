@@ -1,3 +1,10 @@
+---
+title: How much does Dark Matter matter?
+date: 2010-02-26
+excerpt: I read with mixed feelings a release quoting Professor Wolfgang Rau of
+  Kingston, Canada. As one of the 60 researchers involved with the Cryogenic...
+---
+
 # How much does Dark Matter matter?
 
 I read with mixed feelings a release quoting Professor Wolfgang Rau of Kingston, Canada.  As one of the 60 researchers involved with the Cryogenic Dark Matter Search (CDMS) experiments, it is clear he considers the understanding of dark matter to be important. But how important is it?

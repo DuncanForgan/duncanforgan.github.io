@@ -1,3 +1,11 @@
+---
+title: League Tables Are Not to be Manipulated
+date: 2011-01-12
+excerpt: Yesterday's publication of the latest secondary school League Tables
+  raised eyebrows. Schools no longer have the option to cherry-pick subjects
+  for...
+---
+
 # League Tables Are Not to be Manipulated
 
 Yesterday's publication of the latest secondary school League Tables raised eyebrows. Schools no longer have the option to cherry-pick subjects for assessment to boost their ranking - they will now have to stand or fall based on the same selection of GCSE subjects.

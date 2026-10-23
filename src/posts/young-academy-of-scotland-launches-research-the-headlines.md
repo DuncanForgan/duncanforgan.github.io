@@ -1,3 +1,11 @@
+---
+title: Young Academy of Scotland Launches "Research the Headlines"
+date: 2013-08-31
+excerpt: Just a quick note to both of my readers that I now blog in more than
+  one place... I'm an elected member of The Royal Society of Edinburgh's
+  Young...
+---
+
 # Young Academy of Scotland Launches "Research the Headlines"
 
 Just a quick note to both of my readers that I now blog in more than one place...

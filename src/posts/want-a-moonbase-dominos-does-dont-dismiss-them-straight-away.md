@@ -1,3 +1,11 @@
+---
+title: Want a Moonbase? Domino's does - Don't Dismiss Them Straight Away
+date: 2011-09-01
+excerpt: Probably the weirdest headline I've seen this week that isn't in the
+  Onion, Domino's Japan apparently wants to build a pizza restaurant on the
+  moon...
+---
+
 # Want a Moonbase? Domino's does - Don't Dismiss Them Straight Away
 
 Probably the weirdest headline I've seen this week that isn't in the Onion, Domino's Japan apparently wants to build a pizza restaurant [on the moon](http://mashable.com/2011/09/01/dominos-japan-moon/).  The link gives further links to the Japanese site, with a charming video of the Japan CEO explaining (in a spacesuit of course) about how this madcap project will pan out - at an estimated cost of $21 billion.

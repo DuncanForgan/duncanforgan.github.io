@@ -1,3 +1,11 @@
+---
+title: Wish You Were Here? Searching for Exoplanets
+date: 2012-09-18
+excerpt: I've been criminally remiss on this blog. I made my big screen debut in
+  arenas all around Scotland, and I haven't mentioned it at all! Wish You
+  Were...
+---
+
 # Wish You Were Here? Searching for Exoplanets
 
 I've been criminally remiss on this blog.  I made my big screen debut in arenas all around Scotland, and I haven't mentioned it at all!

@@ -1,3 +1,10 @@
+---
+title: The power myth will soon be all that's left of modern politics
+date: 2016-02-25
+excerpt: The latest episode of This American Life has got me thinking about the
+  dynamics of modern politics, and not just the 2016 American presidential...
+---
+
 # The power myth will soon be all that's left of modern politics
 
 The latest episode of [This American Life](http://www.thisamericanlife.org) has got me thinking about the dynamics of modern politics, and not just the 2016 American presidential elections, but the upcoming referendum on the UK's place in the EU.

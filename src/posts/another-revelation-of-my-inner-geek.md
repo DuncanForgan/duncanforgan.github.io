@@ -1,3 +1,11 @@
+---
+title: Another Revelation of my Inner Geek
+date: 2009-11-26
+excerpt: Every so often, something happens to you which reinforces your
+  perception of yourself in the world. I had one of those moments last week...
+  I'm the...
+---
+
 # Another Revelation of my Inner Geek
 
 Every so often, something happens to you which reinforces your perception of yourself in the world.  I had one of those moments last week...

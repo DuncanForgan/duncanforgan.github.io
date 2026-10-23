@@ -1,3 +1,10 @@
+---
+title: Teaching git &amp; GitHub at STFC CDT 2018
+date: 2018-11-20
+excerpt: Today, I visited the University of Edinburgh’s snazzy new Bayes Centre,
+  as an invited speaker at the STFC’s National CDT Meeting. It was a real...
+---
+
 # Teaching git &amp; GitHub at STFC CDT 2018
 
 Today, I visited the University of Edinburgh’s snazzy new Bayes Centre, as an invited speaker at the [STFC’s National CDT Meeting](https://www.scotdist.ac.uk/national-cdt-meeting). It was a real pleasure to teach the next generation of PhD students in data-intensive science the fundamentals of version control, git and GitHub/Bitbucket.

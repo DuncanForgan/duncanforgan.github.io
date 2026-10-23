@@ -1,3 +1,11 @@
+---
+title: "Marineris: The Invisible Valley? Yes It Is"
+date: 2011-09-01
+excerpt: Last week, I posed a question about Valles Marineris (The Mariner's
+  Valley) on Mars. Being 200km wide, I asked you if the cliff faces of
+  Marineris...
+---
+
 # Marineris: The Invisible Valley? Yes It Is
 
 [Last week](http://wellbredinsolence.wordpress.com/2011/08/24/marineris-the-invisible-valley/ "Marineris: The Invisible Valley?"), I posed a question about Valles Marineris (The Mariner's Valley) on Mars.  Being 200km wide, I asked you if the cliff faces of Marineris would be visible from the centre of the valley, or would they be so far away they would be over the horizon.  According to the current poll, about 66.6% think yes, and 33.3% think no.

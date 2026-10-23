@@ -1,3 +1,11 @@
+---
+title: "Thesis Anthology Part 4: Flick the Disc to Light it Up"
+date: 2010-08-16
+excerpt: Let's soldier on with the thesis! Today I'm talking about encounters
+  again. Last time we showed that breaking up a disc this way was very
+  difficult...
+---
+
 # Thesis Anthology Part 4: Flick the Disc to Light it Up
 
 Let's soldier on with the thesis! Today I'm talking about encounters again.  [Last time](http://wellbredinsolence.wordpress.com/2010/07/12/thesis-anthology-part-3-breaking-up-a-disc-is-hard-to-do/) we showed that breaking up a disc this way was very difficult.  This time I'll be talking about *outburst phenomena*.When stars are formed, they come ready made with a disc (just like we discussed [previously](http://wellbredinsolence.wordpress.com/2010/04/11/the-thesis-anthology-begins-an-introduction/)).  The disc feeds the star over a period of about 100,000 years, growing it until it reaches its final mass.  Astronomers can estimate how quickly the star gets fed (what we call the accretion rate).  What they find is that the discs aren't feeding the star quickly enough.  Unless those stars clean their plates quickly, they simply won't form quickly enough for us to see the stars we see.

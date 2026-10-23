@@ -1,3 +1,11 @@
+---
+title: How Do We Find Interesting Things in Very Large Simulations?
+date: 2017-02-06
+excerpt: It's a growing problem in computational astrophysics. Hydrodynamic
+  simulations (say of giant molecular clouds and star forming regions) are
+  getting...
+---
+
 # How Do We Find Interesting Things in Very Large Simulations?
 
 It's a growing problem in computational astrophysics.  Hydrodynamic simulations (say of giant molecular clouds and star forming regions) are getting very large.  When we want to analyse them and find interesting features to compare to the physical Universe, simply searching them "by eye" is becoming an enormous task.

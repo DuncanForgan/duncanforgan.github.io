@@ -1,3 +1,11 @@
+---
+title: Is Entropy the secret to Intelligence?
+date: 2010-05-13
+excerpt: The 2nd Law of Thermodynamics (whether you understand it or not)
+  governs much of what happens in the universe. Could it be responsible for
+  sentience...
+---
+
 # Is Entropy the secret to Intelligence?
 
 The 2nd Law of Thermodynamics (whether you understand it or not) governs much of what happens in the universe.  Could it be responsible for sentience?  Some recent work by a collaborator of mine suggests it as a possibility.

@@ -1,3 +1,11 @@
+---
+title: The Case of the Missing Star
+date: 2014-02-24
+excerpt: When stars are born and grow in close proximity to each other, the
+  presence of such massive neighbours can have significant consequences,
+  especially...
+---
+
 # The Case of the Missing Star
 
 When stars are born and grow in close proximity to each other, the presence of such massive neighbours can have significant consequences, especially while the stars are young.  The gravity of a neighbour can trigger flows of gas and energy off a star's surface, spraying it far into space.

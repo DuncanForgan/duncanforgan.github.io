@@ -1,3 +1,10 @@
+---
+title: Can We Catch ET in the act of Asteroid Mining?
+date: 2011-03-30
+excerpt: So, seeing as I put myself firmly on the soap box a few posts ago, I
+  should practise what I preach and tell you about my latest astrobiological...
+---
+
 # Can We Catch ET in the act of Asteroid Mining?
 
 So, seeing as [I put myself firmly on the soap box](http://wellbredinsolence.wordpress.com/2011/03/26/how-i-would-improve-the-arxiv/ "How I would Improve the ArXiv") a few posts ago, I should practise what I preach and tell you about my latest astrobiological research.  You might be familiar with the idea of biomarkers - the concept that inhabited planets look fundamentally different from uninhabited planets.  For example, significant amounts of oxygen in a planet's atmosphere is a pretty good (if not entirely conclusive) sign that something is continually producing it; otherwise, the oxygen would disappear pretty quickly.  Anyway, this is an indication that something interesting is going on there, and we should continue exploring.  Biomarkers tell us that there's a good chance the planet is inhabited by life - *noomarkers* tell us that a planet or planetary system has intelligent life.  What my collaborator Martin Elvis and I were interested in was [whether asteroid mining could provide us with a noomarker](http://arxiv.org/abs/1103.5369).

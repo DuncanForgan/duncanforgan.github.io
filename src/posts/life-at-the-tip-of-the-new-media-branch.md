@@ -1,3 +1,11 @@
+---
+title: Life at the tip of the New Media Branch
+date: 2010-07-26
+excerpt: Astronomers are simple creatures - when someone makes a simple log-log
+  plot with some interesting data, that's usually enough to excite us.
+  There's...
+---
+
 # Life at the tip of the New Media Branch
 
 Astronomers are simple creatures - when someone makes a simple log-log plot with some interesting data, that's usually enough to excite us.  There's only two ways it gets better:

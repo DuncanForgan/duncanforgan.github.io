@@ -1,3 +1,10 @@
+---
+title: Scotland to have its own Web Domain?
+date: 2011-09-26
+excerpt: You might have expected me to comment on this week's faster than light
+  neutrinos story - frankly, I feel it's a little precipitate to talk about...
+---
+
 # Scotland to have its own Web Domain?
 
 You might have expected me to comment on this week's faster than light neutrinos story - frankly, I feel it's a little precipitate to talk about these results (if these are verified by an independent experiment, then I'll prick up my ears), and besides, there have been plenty of posts by much better [qualified](http://blogs.discovermagazine.com/cosmicvariance/2011/09/23/faster-than-light-neutrinos/) [people](http://blogs.discovermagazine.com/cosmicvariance/2011/09/24/can-neutrinos-kill-their-own-grandfathers/) on the subject.

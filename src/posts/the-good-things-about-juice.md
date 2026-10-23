@@ -1,3 +1,10 @@
+---
+title: The Good Things about JUICE
+date: 2012-05-08
+excerpt: There's been a lot of chatter in astronomy circles about the negative
+  consequences of ESA's latest L-class (i.e. large) space mission selection...
+---
+
 # The Good Things about JUICE
 
 There's been a lot of chatter in astronomy circles about the negative consequences of [ESA's latest L-class (i.e. large) space mission selection](http://physicsworld.com/cws/article/news/2012/may/02/juice-picked-for-launch).  JUICE (The [**JU**piter **I**cy moon **E**xplorer](http://en.wikipedia.org/wiki/Jupiter_Icy_Moon_Explorer)) was selected over two rival missions - the **N**ew **G**ravitational wave **O**bservatory (NGO), and the **A**dvanced **T**elescope for **H**igh **EN**ergy **A**strophysics (ATHENA).  In the current age of global austerity, one group's win is several groups' losses, and understandably the X-Ray and gravitational wave communities are upset at the choice.  Indeed, reading the [comments section](http://andyxl.wordpress.com/2012/05/02/all-systems-juice/) on [astro blogs](https://telescoper.wordpress.com/2012/05/03/its-juice-7-2/) might make planetary scientists go a little pale. Not least the fact that ATHENA supporters have already delivered [a 1450 signature petition](http://fs6.formsite.com/ATHENA2022/form1/index.html) demanding a rethink.  The fact that the decision making process has been somewhat cloudy doesn't help matters.

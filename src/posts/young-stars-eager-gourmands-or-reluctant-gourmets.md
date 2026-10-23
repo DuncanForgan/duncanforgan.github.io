@@ -1,3 +1,11 @@
+---
+title: "Young Stars: Eager Gourmands or Reluctant Gourmets?"
+date: 2009-11-09
+excerpt: "Some stars undergo a burst of increased brightness: why?How do you
+  make a star brighter? One simple way is to feed it more matter. As the
+  matter..."
+---
+
 # Young Stars: Eager Gourmands or Reluctant Gourmets?
 
 Some stars undergo a burst of increased brightness: why?How do you make a star brighter? One simple way is to feed it more matter.  As the matter spirals into the star, it releases its gravitational energy in the form of radiation, making the star more luminous.  But where does this material come from?

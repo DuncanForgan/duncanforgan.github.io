@@ -1,3 +1,11 @@
+---
+title: "Health Impact Fund: A Cure for Big Pharma?"
+date: 2010-02-10
+excerpt: Not to step on Phil Plait's toes, but today I'm talking about
+  antivaxxers' favourite target. Does "Big Pharma" have to be "evil"? Or are we
+  (and by...
+---
+
 # Health Impact Fund: A Cure for Big Pharma?
 
 Not to step on [Phil Plait](http://blogs.discovermagazine.com/badastronomy/)'s toes, but today I'm talking about antivaxxers' favourite target.  Does "Big Pharma" have to be "evil"? Or are we (and by that I mean lawmakers) to blame?

@@ -1,3 +1,11 @@
+---
+title: Oh Compact Disc, we hardly knew ye...
+date: 2009-11-23
+excerpt: Will CD soon be superseding vinyl as a collector's item? This article
+  informs me that the CD is dead. Or at least in an advanced state of
+  decrepitude...
+---
+
 # Oh Compact Disc, we hardly knew ye...
 
 Will CD soon be superseding vinyl as a collector's item?
