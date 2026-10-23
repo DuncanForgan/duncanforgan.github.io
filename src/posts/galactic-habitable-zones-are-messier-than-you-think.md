@@ -1,3 +1,10 @@
+---
+title: Galactic Habitable Zones Are Messier than You Think
+date: 2015-11-09
+excerpt: "In the search for life in the Galaxy, an important question to ask is:
+  Can we predict which parts of galaxies are more likely to have habitable..."
+---
+
 # Galactic Habitable Zones Are Messier than You Think
 
 In the search for life in the Galaxy, an important question to ask is: *Can we predict which parts of galaxies are more likely to have habitable planets?* If we knew the answer, we could target our search at the right parts of the sky, and we could assess the odds for life appearing in galaxies throughout the cosmos.

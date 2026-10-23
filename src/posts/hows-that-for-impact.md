@@ -1,3 +1,11 @@
+---
+title: How's that for Impact?
+date: 2010-02-14
+excerpt: Anyone who spends any amount of time in an astronomy department (or
+  particle physics, for that matter) in the UK will have "special" words for
+  the...
+---
+
 # How's that for Impact?
 
 Anyone who spends any amount of time in an astronomy department (or particle physics, for that matter) in the UK will have "special" words for the concept of the "impact" of research.  This latest [article from BBC News](http://news.bbc.co.uk/1/hi/sci/tech/8504373.stm) shows us all that science with wealth-generating "impact" usually has its roots in something much more fundamental (and less lucrative).

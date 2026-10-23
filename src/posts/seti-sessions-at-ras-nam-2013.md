@@ -1,3 +1,10 @@
+---
+title: SETI Sessions at RAS NAM 2013
+date: 2013-03-21
+excerpt: A quick advertisement for the interested - the UK SETI community has a
+  chance to meet over 3 sessions at the Royal Astronomical Society's National...
+---
+
 # SETI Sessions at RAS NAM 2013
 
 A quick advertisement for the interested - the [UK SETI community has a chance to meet](http://star-www.st-and.ac.uk/~ap22/setinam2013.html) over 3 sessions at the Royal Astronomical Society's National Astronomy Meeting ([RAS NAM](http://www.nam2013.co.uk/)), to be held July 1st to 5th at the University of St Andrews.

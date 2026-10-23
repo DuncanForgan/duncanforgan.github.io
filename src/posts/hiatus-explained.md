@@ -1,3 +1,10 @@
+---
+title: Hiatus Explained
+date: 2011-05-29
+excerpt: Well, it's been a while since I posted anything here - life has got in
+  the way a little over the last month or so (though I've not been completely...
+---
+
 # Hiatus Explained
 
 Well, it's been a while since I posted anything here - life has got in the way a little over the last month or so (though I've not been [completely off the grid](http://www.bbc.co.uk/news/science-environment-13567381)).

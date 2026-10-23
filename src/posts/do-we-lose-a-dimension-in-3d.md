@@ -1,3 +1,11 @@
+---
+title: Do we lose a dimension in 3D?
+date: 2010-07-19
+excerpt: After a week consisting of a host of sensory stimuli, I find myself
+  musing on the subject of 3D cinema. I've been reading Ray Bradbury's "Zen in
+  the...
+---
+
 # Do we lose a dimension in 3D?
 
 After a week consisting of a host of sensory stimuli, I find myself musing on the subject of 3D cinema.  I've been reading Ray Bradbury's "*Zen in the Art of Writing*", a fabulous collection of ramshackle, maddening essays on the creative process.  It's difficult to read them without your brain sizzling - his judicious carpet-bombing approach to metaphor leaves you ruthlessly overstimulated and utterly satisfied by the third page.  A lazy glance at his [Wikipedia](http://en.wikipedia.org/wiki/Ray_Bradbury) entry led me to this charming poster from *It Came From Outer Space!*[![](/images/posts/do-we-lose-a-dimension-in-3d/itcamefromouterspace.jpg "Itcamefromouterspace")](http://wellbredinsolence.files.wordpress.com/2010/07/itcamefromouterspace.jpg)

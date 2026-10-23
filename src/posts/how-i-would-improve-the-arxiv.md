@@ -1,3 +1,11 @@
+---
+title: How I would Improve the ArXiv
+date: 2011-03-26
+excerpt: Firstly, I should apologise to those who have no idea what the arXiv
+  is. I know that a lot of my colleagues are readers of this blog, and this
+  will...
+---
+
 # How I would Improve the ArXiv
 
 Firstly, I should apologise to those who have no idea what the [arXiv](http://arxiv.org/) is.  I know that a lot of my colleagues are readers of this blog, and this will definitely mean something to them.  For the uninitiated - the arXiv delivers (as it says on the main page)

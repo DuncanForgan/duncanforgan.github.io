@@ -1,3 +1,11 @@
+---
+title: Oven cleaner is denting the Pride of Feminism
+date: 2010-03-11
+excerpt: I know I missed the boat on being indignant about this, but I'll
+  blooming well do it anyway. British audiences will have been treated to the
+  jocular...
+---
+
 # Oven cleaner is denting the Pride of Feminism
 
 I know I missed the boat on being indignant about this, but I'll blooming well do it anyway.  British audiences will have been treated to the jocular [Oven Pride oven cleaner adverts](http://www.youtube.com/watch?v=DrnOqwXWJDA), which proudly state "So easy, even a man can do it."  When they first aired in 2009, there was a great deal of [discussion about how sexist it was](http://www.telegraph.co.uk/news/uknews/5352895/Oven-Pride-advert-mocking-men-was-not-sexist-watchdog-rules.html).  While it is clearly

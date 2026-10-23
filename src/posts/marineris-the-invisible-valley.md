@@ -1,3 +1,10 @@
+---
+title: "Marineris: The Invisible Valley?"
+date: 2011-08-24
+excerpt: Since this was mentioned to me over lunch nearly six months ago, it's
+  been coming back to my brain again and again. The Valles Marineris (or...
+---
+
 # Marineris: The Invisible Valley?
 
 Since this was mentioned to me over lunch nearly six months ago, it's been coming back to my brain again and again.  The Valles Marineris (or Mariner's Valley) is a massive rift system cutting a gash 7 km deep into the surface of Mars.  At 4,000 km long, and 200 km wide, this is the largest known canyon in the Solar System.

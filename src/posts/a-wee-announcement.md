@@ -1,3 +1,11 @@
+---
+title: A Wee Announcement
+date: 2016-12-23
+excerpt: You've no doubt noticed that things have been very quiet on the blog
+  this year, and my activity even on other blogs like Research the Headlines
+  has...
+---
+
 # A Wee Announcement
 
 You've no doubt noticed that things have been very quiet on the blog this year, and my activity even on other blogs like Research the Headlines has also been a bit less than usual.

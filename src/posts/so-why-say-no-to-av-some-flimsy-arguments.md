@@ -1,3 +1,11 @@
+---
+title: So Why Say No to AV? Some Flimsy Arguments
+date: 2011-04-18
+excerpt: So I've been trying to decide on the merits of AV, the proposed
+  Alternative Vote system which might be introduced in the UK. Just now,
+  Westminster...
+---
+
 # So Why Say No to AV? Some Flimsy Arguments
 
 [![](/images/posts/so-why-say-no-to-av-some-flimsy-arguments/l_763edee6-485a-9614-f984-a54aadca9cd1.jpg "L_763edee6-485a-9614-f984-a54aadca9cd1")](http://wellbredinsolence.files.wordpress.com/2011/04/l_763edee6-485a-9614-f984-a54aadca9cd1.jpg)

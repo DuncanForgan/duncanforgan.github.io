@@ -1,3 +1,10 @@
+---
+title: I Agree, but Occupy it How, and for What?
+date: 2011-11-23
+excerpt: It's hard to know what to say about Occupy Wall Street (and its sister
+  movements across the world) that hasn't already been said. That's partially...
+---
+
 # I Agree, but Occupy it How, and for What?
 
 It's hard to know what to say about Occupy Wall Street (and its sister movements across the world) that hasn't already been said.  That's partially why I haven't written anything about it yet.  As the movement settles into its third month of action, making its way to Washington D.C. through seemingly horrific scenes of apparent police brutality, it continues to undergo sustained attacks from the conservatives (with a lower case c).

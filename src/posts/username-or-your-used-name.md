@@ -1,3 +1,11 @@
+---
+title: Username or your used name?
+date: 2009-10-26
+excerpt: Continuing the nomenclature theme...how long will it be before the
+  fuzzy distinction between usernames and our traditional parent-given
+  monikers...
+---
+
 # Username or your used name?
 
 Continuing the nomenclature theme...how long will it be before the fuzzy distinction between usernames and our traditional parent-given monikers disappear?  [This article](http://news.bbc.co.uk/1/hi/entertainment/8252235.stm) seems to suggest not long.

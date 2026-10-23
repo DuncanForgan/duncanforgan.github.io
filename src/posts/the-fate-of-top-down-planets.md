@@ -1,3 +1,11 @@
+---
+title: The Fate of Top Down Planets
+date: 2015-04-01
+excerpt: Avid readers may remember a few years ago I blogged about the
+  statistics of objects formed by disc fragmentation. In our paper, we looked at
+  tidal...
+---
+
 # The Fate of Top Down Planets
 
 Avid readers may remember a few years ago I blogged about the [statistics of objects formed by disc fragmentation](https://wellbredinsolence.wordpress.com/2013/07/03/doing-the-statistics-on-top-down-planet-formation/ "Doing the Statistics on Top Down Planet Formation"). In our [paper](http://arxiv.org/abs/1304.4978), we looked at tidal downsizing, to see if big fluffy disc fragments with masses bigger than Jupiter could form solid cores and lose their gas to become objects of Neptune, maybe even Earth masses.  We created what's known as a **population synthesis model** - this is essentially a way of running lots of simulations very quickly to get lots of output data, in our case lots of fragments which have evolved to form objects (or not, as the case may be).

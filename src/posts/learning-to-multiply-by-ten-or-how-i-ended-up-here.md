@@ -1,3 +1,11 @@
+---
+title: Learning to Multiply by Ten - or How I Ended up Here
+date: 2010-12-17
+excerpt: Christmas looms - my PhD is complete (bar printing my final hardbound
+  copies), and my research is tied up in way too neat a bow to start new
+  tasks...
+---
+
 # Learning to Multiply by Ten - or How I Ended up Here
 
 Christmas looms - my PhD is complete (bar printing my final hardbound copies), and my research is tied up in way too neat a bow to start new tasks today.  So I have decided to keep it Science-y today, and talk about where I began this journey, and the moment I became a scientist.

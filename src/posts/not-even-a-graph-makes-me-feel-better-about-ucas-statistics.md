@@ -1,3 +1,10 @@
+---
+title: Not Even A Graph Makes Me Feel Better about UCAS Statistics
+date: 2010-08-20
+excerpt: I tend to be quite cynical about certain things - if they're reported
+  in newspapers with inappropriately fear-inducing headlines or gloomy prose...
+---
+
 # Not Even A Graph Makes Me Feel Better about UCAS Statistics
 
 I tend to be quite cynical about certain things - if they're reported in newspapers with inappropriately fear-inducing headlines or gloomy prose, alarm bells ring in my head, the red mist descends and I grumble something about the Daily Mail.  The news that [150,000 students will miss out on university places in the UK](http://www.bbc.co.uk/news/education-11036059) this year is the latest article to set off the aforementioned bilge buzzer.  Of course, as a scientist there is only one appropriate response: make graphs.

@@ -1,3 +1,11 @@
+---
+title: A Dysonesque Gravitational Wave Generator
+date: 2020-05-03
+excerpt: "PSA: this blogpost contains a good deal of spitballing, and not a lot
+  of calculations. It’s an idea I’d love to see fleshed out, but it would
+  take..."
+---
+
 # A Dysonesque Gravitational Wave Generator
 
 *PSA: this blogpost contains a good deal of spitballing, and not a lot of calculations. It’s an idea I’d love to see fleshed out, but it would take more knowledge (and time) than I possess at the moment.*

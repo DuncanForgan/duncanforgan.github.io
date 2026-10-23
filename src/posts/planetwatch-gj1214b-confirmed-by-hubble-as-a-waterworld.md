@@ -1,3 +1,11 @@
+---
+title: "PlanetWatch: GJ1214b confirmed by Hubble as a Waterworld"
+date: 2012-02-23
+excerpt: It's difficult to blink without seeing a press release on an unusual
+  exoplanet. This time it's GJ1214b who's back in the headlines. It was
+  discovered...
+---
+
 # PlanetWatch: GJ1214b confirmed by Hubble as a Waterworld
 
 It's difficult to blink without seeing a press release on an unusual exoplanet.  This time it's GJ1214b who's back in the headlines.  It was discovered by the [Mearth](https://www.cfa.harvard.edu/~zberta/mearth/Welcome.html) project in 2009, using the transit method.  Mearth purposefully looks at M type stars, i.e. very low mass stars, because smaller planets will be able to block out a larger fraction of the host starlight.

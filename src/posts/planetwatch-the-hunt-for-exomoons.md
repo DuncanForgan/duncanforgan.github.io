@@ -1,3 +1,11 @@
+---
+title: "PlanetWatch: The Hunt for Exomoons"
+date: 2012-01-11
+excerpt: Over the Christmas break, I saw this paper pop up in my Twitter feed,
+  which caught my eye. The Hunt for Exomoons with Kepler (HEK) is an
+  ambitious...
+---
+
 # PlanetWatch: The Hunt for Exomoons
 
 Over the Christmas break, I saw [this paper](http://arxiv.org/abs/1201.0752) pop up in my Twitter feed, which caught my eye. The Hunt for Exomoons with Kepler (HEK) is an ambitious attempt to do something that has never been done before - detect a moon orbiting an exoplanet.

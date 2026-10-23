@@ -10,16 +10,13 @@ For each published post the script will:
   - Write a .md file to src/posts/{slug}.md
   - Download any images referenced in the post into public/images/posts/{slug}/
     and rewrite the Markdown to point at the local copies
-  - Write the blogPosts.js config entry to blogPosts_entries.tmp.js
-
-After running, copy the entries from blogPosts_entries.tmp.js into
-src/config/blogPosts.js in date order alongside any existing posts.
+  - Include title, date and excerpt as YAML front matter for automatic listing
 """
 
 import argparse
+import json
 import re
 import sys
-import textwrap
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -213,26 +210,21 @@ def download_images(markdown_body: str, slug: str, images_dir: Path, dry_run: bo
 
 def write_markdown(post: dict, body: str, posts_dir: Path) -> Path:
     """Write a single post as a Markdown file and return the path."""
-    # Build the file content: # Title heading + blank line + body
-    md_content = f"# {post['title']}\n\n{body}\n"
+    metadata = {
+        "title": post["title"],
+        "date": post["date"],
+        "excerpt": extract_excerpt(body),
+    }
+    # JSON-quoted strings are valid YAML scalars, including quotes and newlines.
+    front_matter = "\n".join(
+        f"{key}: {json.dumps(value, ensure_ascii=False)}"
+        for key, value in metadata.items()
+    )
+    md_content = f"---\n{front_matter}\n---\n\n# {post['title']}\n\n{body}\n"
 
     out_path = posts_dir / f"{post['slug']}.md"
     out_path.write_text(md_content, encoding="utf-8")
     return out_path
-
-
-def format_js_entry(post: dict, excerpt: str) -> str:
-    """Return the blogPosts.js object literal for a single post."""
-    # Escape single quotes in strings
-    title   = post["title"].replace("'", "\\'")
-    excerpt = excerpt.replace("'", "\\'")
-    return textwrap.dedent(f"""\
-      {{
-        slug: '{post["slug"]}',
-        title: '{title}',
-        date: '{post["date"]}',
-        excerpt: '{excerpt}'
-      }}""")
 
 
 def main() -> None:
@@ -281,15 +273,12 @@ def main() -> None:
         print("No published posts found in the export file.")
         return
 
-    # Sort by date ascending so the printed JS entries are in order
+    # Process posts chronologically.
     posts.sort(key=lambda p: p["date"])
-
-    js_entries = []
 
     for post in posts:
         body = html_to_markdown(post["content"])
         body = download_images(body, post["slug"], images_dir, dry_run=args.dry_run)
-        excerpt = extract_excerpt(body)
 
         if args.dry_run:
             print(f"[dry-run] Would write: {posts_dir / post['slug']}.md")
@@ -297,31 +286,16 @@ def main() -> None:
             out_path = write_markdown(post, body, posts_dir)
             print(f"Written:  {out_path}")
 
-        js_entries.append(format_js_entry(post, excerpt))
-
-    # Write JS config entries to a temp file (sorted by date) for easy pasting
-    js_out_path = Path(__file__).parent / "blogPosts_entries.tmp.js"
-    if not args.dry_run:
-        with js_out_path.open("w", encoding="utf-8") as f:
-            f.write("// Paste these entries into src/config/blogPosts.js in date order\n\n")
-            for entry in js_entries:
-                f.write(entry + ",\n\n")
-
     print(f"\n{'─' * 60}")
     print(f"Converted {len(posts)} post(s).")
     print()
-    if args.dry_run:
-        print("[dry-run] Would write JS entries to: blogPosts_entries.tmp.js")
-    else:
-        print(f"JS entries written to: {js_out_path}")
-        print("Paste the entries (in date order) into src/config/blogPosts.js")
     print(f"{'─' * 60}")
     print()
     print("Next steps:")
     print("  1. Review the generated .md files in src/posts/")
     print("  2. Check for WordPress shortcodes (e.g. [gallery]) that need manual cleanup")
     print("  3. Review downloaded images in public/images/posts/")
-    print("  4. Paste blogPosts_entries.tmp.js contents into src/config/blogPosts.js")
+    print("  4. Build the site; posts are listed automatically from their front matter")
 
 
 if __name__ == "__main__":

@@ -1,3 +1,11 @@
+---
+title: "Pedants Corner: Dwarves vs Dwarfs"
+date: 2012-11-24
+excerpt: The coming release of The Hobbit in cinemas brings to mind a common
+  mistake amongst astronomers (and the general public) when they come to the
+  plural...
+---
+
 # Pedants Corner: Dwarves vs Dwarfs
 
 The coming release of *The Hobbit* in cinemas brings to mind a common mistake amongst astronomers (and the general public) when they come to the plural of "dwarf".

@@ -1,3 +1,11 @@
+---
+title: A Different Sort of Scale - The Rio Scale
+date: 2011-03-19
+excerpt: Well, we've heard a lot about the terrible circumstances in Japan over
+  the last week or so. Honestly, I don't feel very qualified to comment on
+  the...
+---
+
 # A Different Sort of Scale - The Rio Scale
 
 Well, we've heard a lot about the terrible circumstances in Japan over the last week or so.  Honestly, I don't feel very qualified to comment on the situation.  There are excellent descriptions of the nuclear physics online, the one thing I'm most likely to be able to contribute intelligently to, so I'll direct you to Frank Shu's [refreshingly thorough analysis](http://bit.ly/gR8pc7) (even if developing events make it a little out of date - thanks to [@telescoper](http://twitter.com/#!/telescoper) for the heads up).  Instead of talking about earthquake magnitudes then, I'll remind you of a lesser known scale.  If we ever record a value of 8.9 on it, it will have equally significant results for our world.

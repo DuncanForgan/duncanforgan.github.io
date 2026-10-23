@@ -1,3 +1,11 @@
+---
+title: The Prime Directive, and Why It (Probably) Doesn't Exist
+date: 2011-06-17
+excerpt: 'The Fermi Paradox has had a lot of attention over the years. The
+  question is easy to sum up: "If aliens exist, where are they?" The answers to
+  the...'
+---
+
 # The Prime Directive, and Why It (Probably) Doesn't Exist
 
 The Fermi Paradox has had a lot of attention over the years.  The question is easy to sum up: "If aliens exist, where are they?" The answers to the question are manyfold.  The Zoo Solution is one of those answers, and is often considered with some derision.  Rightly so - it asks us to accept quite a lot.  In short, the Zoo Solution says the reason we have not discovered extraterrestrial intelligence (ETI) is because ***they don't want us to see them* -** for one reason or another, they take deliberate steps to shield us from the truth of their existence.

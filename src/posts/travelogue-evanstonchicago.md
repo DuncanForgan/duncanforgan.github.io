@@ -1,3 +1,10 @@
+---
+title: Travelogue - Evanston/Chicago
+date: 2011-06-13
+excerpt: As you may know, I've been out of the office for the last week or so.
+  I'm in Boulder right now, but I made a stop along the way in Evanston...
+---
+
 # Travelogue - Evanston/Chicago
 
 As you may know, I've been out of the office for the last week or so.  I'm in Boulder right now, but I made a stop along the way in Evanston, Illinois.  A great chance to visit my brother, and do some very minor work-related things along the way.[![](/images/posts/travelogue-evanstonchicago/img_0196.jpg "IMG_0196")](http://wellbredinsolence.files.wordpress.com/2011/06/img_0196.jpg)No, he doesn't live here.  He's three years my senior (i.e. well beyond the frat-house), and a chemistry postdoc at Northwestern (hence the locale).  I just took this picture while I was on campus (not quite National Lampoon, but still nice).  We had a pretty action-packed few days - a bumper visit to the Uni campus to give a seminar (accompanied by a marathon meet-the-staff day); a considerably boozier meet-the-chemistry-staff evening (local beers were sampled, all hail microbrewing), and a visit to Chicago.

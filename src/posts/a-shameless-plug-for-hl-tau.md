@@ -1,3 +1,11 @@
+---
+title: A Shameless Plug for HL Tau
+date: 2009-12-05
+excerpt: I would be failing in my duty as a PhD student if I didn't post this...
+  I came across this link (courtesy of Derren Brown's blog) which documents
+  the...
+---
+
 # A Shameless Plug for HL Tau
 
 I would be failing in my duty as a PhD student if I didn't post this...

@@ -1,3 +1,11 @@
+---
+title: The Wobbly Habitable Zone of Alpha Centauri B
+date: 2012-02-07
+excerpt: It's the nearest star system to our own. It has two Sunlike stars (and
+  one dwarf star). We've been measuring the orbits of the binary accurately
+  for...
+---
+
 # The Wobbly Habitable Zone of Alpha Centauri B
 
 It's the nearest star system to our own.  It has two Sunlike stars (and one dwarf star).  We've been measuring the orbits of the binary accurately for over a century.  And on top of all that, there are good indications from theory and observations that they are capable of hosting planets.  So it's not a surprise that the Alpha Centauri system has been [in the minds of exoplanet scientists](http://arxiv.org/abs/0802.3482) for some time.

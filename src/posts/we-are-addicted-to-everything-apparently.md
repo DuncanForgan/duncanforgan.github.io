@@ -1,3 +1,11 @@
+---
+title: We are Addicted to Everything (Apparently)
+date: 2010-09-06
+excerpt: The New Scientist runs another article this week on the addictive
+  nature of junk food. Evidence is building that increasing consumption of sugar
+  and...
+---
+
 # We are Addicted to Everything (Apparently)
 
 The New Scientist runs another article this week on the addictive nature of junk food.  Evidence is building that increasing consumption of sugar and fat in our diet is altering our brain chemistry - changing the levels of dopamine in our brains' striatum, manipulating the brain pathways associated with rewards, in a manner identical to drug addiction.

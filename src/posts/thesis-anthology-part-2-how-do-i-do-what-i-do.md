@@ -1,3 +1,10 @@
+---
+title: "Thesis Anthology Part 2: How do I do what I do?"
+date: 2010-05-19
+excerpt: Here it is - part 2 of my thesis anthology! In part one I gave a brief
+  introduction to the protoplanetary disc, formed as a consequence of angular...
+---
+
 # Thesis Anthology Part 2: How do I do what I do?
 
 Here it is - part 2 of my thesis anthology!  In [part one](http://wellbredinsolence.wordpress.com/2010/04/11/the-thesis-anthology-begins-an-introduction/) I gave a brief introduction to the protoplanetary disc, formed as a consequence of angular momentum during star formation.  Next, I'll tell you how I study these discs.This of course, is the nub of the problem for most astrophysicists - most laboratories aren't big enough to carry out experiments on stars and planets.  We therefore have two options for study:

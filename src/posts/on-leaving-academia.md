@@ -1,3 +1,10 @@
+---
+title: On Leaving Academia
+date: 2019-03-25
+excerpt: Disclaimer:This is not an article about how toxic academia has become,
+  or how it can be improved. There are plenty of other places you can go for...
+---
+
 # On Leaving Academia
 
 *Disclaimer:**This is not an article about how toxic academia has become, or how it can be improved.  There are plenty of other places you can go for that - maybe even on this blog at some point in the future. I wrote this essay for my own benefit - to clear the bile, and help me deal with a big transition in my life.*

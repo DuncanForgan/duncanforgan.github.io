@@ -1,3 +1,11 @@
+---
+title: "PlanetWatch: Channeling Le Verrier in the KOI-872 system"
+date: 2012-05-13
+excerpt: In August 1846, Urbain Le Verrier announced to the French Academy his
+  prediction of a previously undiscovered planet. He had studied the motion
+  of...
+---
+
 # PlanetWatch: Channeling Le Verrier in the KOI-872 system
 
 In August 1846, Urbain Le Verrier announced to the French Academy his prediction of a previously undiscovered planet.  He had studied the motion of Uranus, and concluded using Newton's Law of Gravitation that the small deviations he had witnessed in its orbit were due to gravitational perturbations made by the proposed planet.  John Adams, also working on the same hypothesis, was barely beaten to the punch.  The new planet was Neptune, and its discovery was a triumph of the scientific method.  Its existence was predicted without ever having been observed (although it is said that Neptune had been observed in the past but never correctly identified).

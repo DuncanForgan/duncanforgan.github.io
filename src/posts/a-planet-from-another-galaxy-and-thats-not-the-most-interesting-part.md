@@ -1,3 +1,11 @@
+---
+title: A Planet From Another Galaxy...and That's Not The Most Interesting Part
+date: 2010-11-20
+excerpt: Astronomers have discovered the first extrasolar planet that was born
+  in another galaxy. And it gets even better... HIP 13044 is an interloper.
+  There...
+---
+
 # A Planet From Another Galaxy...and That's Not The Most Interesting Part
 
 Astronomers have discovered the first extrasolar planet that was born in another galaxy.  And it gets even better...

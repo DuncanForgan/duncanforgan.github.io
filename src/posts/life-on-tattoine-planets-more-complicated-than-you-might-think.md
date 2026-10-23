@@ -1,3 +1,10 @@
+---
+title: "Life on Tattoine Planets: More Complicated Than You Might Think"
+date: 2014-09-09
+excerpt: We all know that life on Earth depends on the Sun, and not just to keep
+  the cold out. Plants convert sunlight into energy through photosynthesis...
+---
+
 # Life on Tattoine Planets: More Complicated Than You Might Think
 
 We all know that life on Earth depends on the Sun, and not just to keep the cold out. Plants convert sunlight into energy through [photosynthesis](http://en.wikipedia.org/wiki/Photosynthesis), giving us oxygen to breathe, and in one way or another, the whole food chain relies on our parent star for support.

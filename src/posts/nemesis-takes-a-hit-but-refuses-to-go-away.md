@@ -1,3 +1,11 @@
+---
+title: Nemesis Takes a Hit, but Refuses to Go Away
+date: 2010-08-02
+excerpt: Some scientific hypotheses, however likely or unlikely they are to be
+  true, refuse to die - mostly because they cannot be "killed" by a
+  refutation...
+---
+
 # Nemesis Takes a Hit, but Refuses to Go Away
 
 Some scientific hypotheses, however likely or unlikely they are to be true, refuse to die - mostly because they cannot be "killed" by a refutation within the grasp of human scientists.  SETI is an example of this - the hypothesis "Aliens exist in our Galaxy" could be falsified if we could search every planet in the Milky Way, but it is simply not possible.  [This paper](http://arxiv.org/abs/1007.0437) attempts a clean kill of another hypothesis which tests our astronomical skills to the limit - the wonderfully named Nemesis hypothesis.

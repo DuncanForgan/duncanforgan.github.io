@@ -1,3 +1,11 @@
+---
+title: Call me Doctor!
+date: 2011-02-07
+excerpt: So finally, I have officially finished my PhD! All that remains for me
+  is to graduate and to admire my hardbound thesis (above). In time, those
+  who...
+---
+
 # Call me Doctor!
 
 [![](/images/posts/call-me-doctor/img_0117.jpg "IMG_0117")](http://wellbredinsolence.files.wordpress.com/2011/02/img_0117.jpg)So finally, I have officially finished my PhD! All that remains for me is to graduate and to admire my hardbound thesis (above).   In time, those who are suckers for punishment will be able to download a PDF of the thesis from my website (yeah, I know).

@@ -1,3 +1,11 @@
+---
+title: Galactic Grand Tours, and strengthening Fermi's Paradox
+date: 2013-02-25
+excerpt: It's been a long time since I wrote about my research, as I once said
+  (rather haughtily) everyone should do, so I'll get back into the saddle.
+  Like...
+---
+
 # Galactic Grand Tours, and strengthening Fermi's Paradox
 
 It's been a long time since I wrote about my research, as I once said (rather haughtily) [everyone should do](http://wellbredinsolence.wordpress.com/2011/03/26/how-i-would-improve-the-arxiv/ "How I would Improve the ArXiv"), so I'll get back into the saddle.

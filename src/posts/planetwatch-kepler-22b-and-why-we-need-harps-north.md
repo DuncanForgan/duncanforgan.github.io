@@ -1,3 +1,11 @@
+---
+title: "PlanetWatch: Kepler-22b, and Why We Need HARPS North"
+date: 2011-12-05
+excerpt: "The week of the Kepler Science Conference (or #KepSciCon, to the
+  Twitterati) was always going to be momentous, with another release of data
+  from the..."
+---
+
 # PlanetWatch: Kepler-22b, and Why We Need HARPS North
 
 The week of the Kepler Science Conference (or #KepSciCon, to the Twitterati) was always going to be momentous, with another release of data from the space telescope's science team.  And they didn't disappoint! Kepler-22b is the closest we've come to seeing a twin Earth in the Milky Way.

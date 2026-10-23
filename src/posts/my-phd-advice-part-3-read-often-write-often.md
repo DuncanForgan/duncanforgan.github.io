@@ -1,3 +1,11 @@
+---
+title: My PhD Advice, Part 3 - Read Often, Write Often
+date: 2011-02-28
+excerpt: This will be a common mantra from those who assess your performance,
+  but it's not without basis. I've been trying to write these posts (see Parts
+  One...
+---
+
 # My PhD Advice, Part 3 - Read Often, Write Often
 
 This will be a common mantra from those who assess your performance, but it's not without basis.  I've been trying to write these posts (see Parts [One](http://wellbredinsolence.wordpress.com/2011/02/14/my-phd-advice-part-one-choose-your-phd-carefully/ "My PhD Advice, Part One – Choose Your PhD Carefully") and [Two](http://wellbredinsolence.wordpress.com/2011/02/21/my-phd-advice-part-2-build-a-good-relationship-with-your-supervisor/ "My PhD Advice, Part 2 – Build a Good Relationship with your Supervisor")) in a subject-neutral fashion, and I hope it's clear that this is true regardless of your PhD title.

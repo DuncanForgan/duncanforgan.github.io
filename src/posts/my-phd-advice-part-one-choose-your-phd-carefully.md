@@ -1,3 +1,10 @@
+---
+title: My PhD Advice, Part One - Choose Your PhD Carefully
+date: 2011-02-14
+excerpt: OK, here begins my pontification about my experiences of the last three
+  years - hopefully it's of use to you. This is almost too obvious, but the...
+---
+
 # My PhD Advice, Part One - Choose Your PhD Carefully
 
 OK, here begins my pontification about my experiences of the last three years - hopefully it's of use to you. This is almost too obvious, but the most important part of any PhD is picking it.  You need to be absolutely sure that you even *want* to do a PhD in the first place.  Ask yourself why you're doing it - is it three tax-free years? Can't live without that student discount? Attracted by the *laissez-faire* academic lifestyle? If these issues are more important than the research itself, then you better think very carefully about doing a PhD at all.

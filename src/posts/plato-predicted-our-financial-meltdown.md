@@ -1,3 +1,10 @@
+---
+title: Plato Predicted our Financial Meltdown
+date: 2010-07-05
+excerpt: Weirdly enough, if we paid more attention to philosophy, we might have
+  foreseen our current economic mess. I've been reading Plato's The Republic...
+---
+
 # Plato Predicted our Financial Meltdown
 
 Weirdly enough, if we paid more attention to philosophy, we might have foreseen our current economic mess.

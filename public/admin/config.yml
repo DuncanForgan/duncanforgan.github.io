@@ -1,0 +1,42 @@
+backend:
+  name: github
+  repo: DuncanForgan/duncanforgan.github.io
+  branch: main
+  # Set up the Netlify OAuth provider described in README.md before logging in.
+  site_domain: REPLACE-ME.netlify.app
+  auth_scope: public_repo
+
+publish_mode: editorial_workflow
+site_url: https://duncanforgan.github.io
+display_url: https://duncanforgan.github.io
+media_folder: public/images/uploads
+public_folder: /images/uploads
+
+collections:
+  - name: posts
+    label: Blog posts
+    label_singular: Blog post
+    folder: src/posts
+    create: true
+    delete: false
+    extension: md
+    format: frontmatter
+    slug: "{{slug}}"
+    summary: "{{title}} — {{date}}"
+    sortable_fields: [date, title]
+    editor:
+      preview: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - label: Date
+        name: date
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+        picker_utc: true
+      - { label: Excerpt, name: excerpt, widget: text, required: false, default: "" }
+      - label: Body
+        name: body
+        widget: markdown
+        hint: The title is displayed automatically unless the body already includes a level-one heading.

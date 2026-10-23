@@ -1,3 +1,10 @@
+---
+title: Doing the Statistics on Top Down Planet Formation
+date: 2013-07-03
+excerpt: I'm currently at the RAS National Astronomy Meeting 2013, and the back
+  of my neck is burning, as I'm giving two talks on papers I've recently...
+---
+
 # Doing the Statistics on Top Down Planet Formation
 
 I'm currently at the [RAS National Astronomy Meeting 2013](http://www.nam2013.co.uk/), and the back of my neck is burning, as I'm giving two talks on papers I've recently published, and I haven't blogged about either of them ([this post](http://wellbredinsolence.wordpress.com/2011/03/26/how-i-would-improve-the-arxiv/ "How I would Improve the ArXiv") is coming back to bite me in the bottom once more).

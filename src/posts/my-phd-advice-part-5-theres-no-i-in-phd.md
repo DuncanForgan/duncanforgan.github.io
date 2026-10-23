@@ -1,3 +1,11 @@
+---
+title: "My PhD Advice, Part 5: There's no I in PhD"
+date: 2011-03-21
+excerpt: One of the big secrets about doing a PhD is that it's not a solitary
+  task. While it's up to you to take control of the project and move the
+  research...
+---
+
 # My PhD Advice, Part 5: There's no I in PhD
 
 One of the big secrets about doing a PhD is that it's not a solitary task.  While it's up to you to take control of the project and move the research forward, there's no way you can know all the answers (after all, if you did, why bother keeping up with the literature?).  You've got a lot of assistance at your disposal - your first, most obvious port of call is your supervisor.  They're tasked with keeping you on track, and making sure you don't get stuck.  That might seem all well and good, but it's true that supervisors can't always be around - they go to conferences, they teach, sometimes they even get sick.  When you've got a problem, it's not guaranteed that they'll be there to fix it.

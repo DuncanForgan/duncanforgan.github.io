@@ -1,3 +1,10 @@
+---
+title: Europa - What's the Crack?
+date: 2009-11-02
+excerpt: What's making this moon crack up? !CresentEuropa-GPN-2000-000469 Europa
+  is one of the most stunning moons of Jupiter. About a hundredth of the mass...
+---
+
 # Europa - What's the Crack?
 
 What's making this moon crack up?

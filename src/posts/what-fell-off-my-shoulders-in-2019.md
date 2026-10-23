@@ -1,3 +1,10 @@
+---
+title: What fell off my shoulders in 2019
+date: 2019-12-31
+excerpt: I have an urge to write a review of the year (probably because I wrote
+  so many for Research the Headlines over the years). This isn't really a...
+---
+
 # What fell off my shoulders in 2019
 
 I have an urge to write a review of the year (probably because I wrote so many for [Research the Headlines](https://duncanforgan.wordpress.com/2013/08/31/young-academy-of-scotland-launches-research-the-headlines/) over the years). This isn't really a review, more another cathartic blerp of words like [my last post.](https://duncanforgan.wordpress.com/2019/03/25/on-leaving-academia/)

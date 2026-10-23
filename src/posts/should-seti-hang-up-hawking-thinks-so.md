@@ -1,3 +1,10 @@
+---
+title: Should SETI hang up? Hawking thinks so
+date: 2010-04-26
+excerpt: Stephen Hawking isn't afraid to say what he thinks! In articles in the
+  Times and Daily Mail, he suggests that intelligent life beyond the Earth is...
+---
+
 # Should SETI hang up? Hawking thinks so
 
 Stephen Hawking isn't afraid to say what he thinks! In articles in the [Times](http://www.timesonline.co.uk/tol/news/science/space/article7107207.ece) and [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1268712/Stephen-Hawking-Aliens-living-massive-ships-invade-Earth.html), he suggests that intelligent life beyond the Earth is practically a formality.  Not only that, but they're probably not the best company.  They are most likely to roam the Galaxy in massive spaceships, travelling from planet to planet, consuming resources (cf Independence Day).  Is he right?

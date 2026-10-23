@@ -1,3 +1,9 @@
+---
+title: Searching for the Ruins of Alien Civilisations
+date: 2017-01-09
+excerpt: The horrifying ruins of Hiroshima after the first atomic...
+---
+
 # Searching for the Ruins of Alien Civilisations
 
 ![55c32aa4c46188fc5f8b4600.jpg](/images/posts/searching-for-the-ruins-of-alien-civilisations/55c32aa4c46188fc5f8b4600.jpg)

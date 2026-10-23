@@ -1,3 +1,10 @@
+---
+title: "Thesis Anthology Part 5: The Viscous Trick - Behind the Magic"
+date: 2010-08-30
+excerpt: Onward ho with part 5 of my thesis anthology. Last time we talked about
+  discs lighting up in outbursts after a second star passes nearby. Now we're...
+---
+
 # Thesis Anthology Part 5: The Viscous Trick - Behind the Magic
 
 Onward ho with part 5 of my thesis anthology.  Last time we talked about [discs lighting up in outbursts](http://wellbredinsolence.wordpress.com/2010/08/16/thesis-anthology-part-4-flick-the-disc-to-light-it-up/) after a second star passes nearby.  Now we're going back to the isolated disc, and we're going to look at angular momentum in more detail.  Take a deep breath!

@@ -1,3 +1,11 @@
+---
+title: Are the Wikileaks really that revelatory?
+date: 2010-11-29
+excerpt: So the USA expresses controversial opinions about other governments in
+  private? And other governments ask the USA to step in over security
+  concerns...
+---
+
 # Are the Wikileaks really that revelatory?
 
 So the USA expresses controversial opinions about other governments in private? And other governments ask the USA to step in over security concerns from other nations? And the USA spies on UN bureaucrats? That affirmative answers to these questions have been confirmed by leaks is pretty astonishing, **but are these really revelatory**?

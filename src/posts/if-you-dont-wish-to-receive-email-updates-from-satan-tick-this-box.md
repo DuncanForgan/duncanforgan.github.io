@@ -1,3 +1,11 @@
+---
+title: If you don't wish to receive email updates from Satan, tick this box...
+date: 2010-04-17
+excerpt: We've all been there with online purchases and downloads - that
+  moderate chunk of legalese that comes up on the screen, blocking our access to
+  some...
+---
+
 # If you don't wish to receive email updates from Satan, tick this box...
 
 We've all been there with online purchases and downloads - that moderate chunk of legalese that comes up on the screen, blocking our access to some form of instant gratification.  There might have been a time when you scrolled down to the bottom, and read every word carefully.  After the umpteenth time, the thought of parsing such obfuscating language is too much, so you tick the "I agree" box and get on to the good stuff.  If you're buying something from Gamestation, then maybe you should read more carefully. [A news item](http://www.foxnews.com/scitech/2010/04/15/online-shoppers-unknowingly-sold-souls/?test=latestnews) delivered to me by Google News from my least favourite news outlet (a combination extremely unlikely to catch my attention) identifies Gamestation as the legal owner of 7,500 souls, which it received thanks to their "immortal soul" clause in their terms and conditions regarding online purchases:

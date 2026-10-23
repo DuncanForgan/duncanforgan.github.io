@@ -1,3 +1,12 @@
+---
+title: Skeptics on the Fringe, at the Royal Observatory This Thursday (Selling
+  out Fast!)
+date: 2011-08-07
+excerpt: Just a very quick plug for some Edinburgh Fringe events I'm helping to
+  organise. Along with the Edinburgh Skeptics, the Royal Observatory
+  Edinburgh...
+---
+
 # Skeptics on the Fringe, at the Royal Observatory This Thursday (Selling out Fast!)
 
 Just a very quick plug for some Edinburgh Fringe events I'm helping to organise.  Along with the Edinburgh Skeptics, the [Royal Observatory Edinburgh](http://www.roe.ac.uk/vc/public-events/special-events.html) is hosting [two shows of science](http://www.edinburghskeptics.co.uk/sotf-royal-observatory/), music and comedy.  We'll be mixing presentations from ROE scientists with science-themed Fringe acts.  Our scientists are picked from the Observatory's Public Speaking Club (which I've been running for the last six months).

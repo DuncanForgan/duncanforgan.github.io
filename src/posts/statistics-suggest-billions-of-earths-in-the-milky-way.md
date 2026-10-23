@@ -1,3 +1,10 @@
+---
+title: Statistics Suggest Billions of Earths in the Milky Way
+date: 2010-10-31
+excerpt: Statistical studies of solar systems are giving us encouraging results
+  about the frequency of Earth-sized planets in our Galaxy. But what does it...
+---
+
 # Statistics Suggest Billions of Earths in the Milky Way
 
 Statistical studies of solar systems are giving us encouraging results about the frequency of Earth-sized planets in our Galaxy.  But what does it mean?

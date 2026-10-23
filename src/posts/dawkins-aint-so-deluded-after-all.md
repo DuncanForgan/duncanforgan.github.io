@@ -1,3 +1,11 @@
+---
+title: Dawkins ain't so deluded after all...
+date: 2010-03-27
+excerpt: I've just finished Richard Dawkins' polemic 'The God Delusion' (for the
+  second time). Doing so has been quite a personal journey, which has taught
+  me...
+---
+
 # Dawkins ain't so deluded after all...
 
 I've just finished Richard Dawkins' polemic 'The God Delusion' (for the second time).  Doing so has been quite a personal journey, which has taught me a lot about myself.

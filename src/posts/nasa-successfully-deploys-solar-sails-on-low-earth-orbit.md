@@ -1,3 +1,10 @@
+---
+title: NASA Successfully Deploys Solar Sails on Low Earth Orbit
+date: 2011-01-30
+excerpt: It's easy for news like this to get lost in the tumult of global
+  politics, but let me leave the discussion of Egypt and Tunisia to the...
+---
+
 # NASA Successfully Deploys Solar Sails on Low Earth Orbit
 
 It's easy for news like this to get lost in the tumult of global politics, but let me leave the discussion of Egypt and Tunisia to the better-informed and tell you about some interesting astro-news.  NASA has successfully deployed Nano-Sail D (below), a 100 square foot solar sail in low Earth Orbit. The success of the mission was confirmed by amateur radio operators, who detected its signal beacon at 437.270 MHz. This success follows in the footsteps of the groundbreaking [IKAROS](http://wiki.solarsails.info/index.php?title=IKAROS) mission, which deployed the first ever functioning solar sail to propel it towards Venus, where it flew by last month.

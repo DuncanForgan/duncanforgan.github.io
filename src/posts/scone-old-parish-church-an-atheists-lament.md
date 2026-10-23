@@ -1,3 +1,11 @@
+---
+title: "Scone Old Parish Church: An Atheist's Lament"
+date: 2011-05-02
+excerpt: I may have come to this story a little late in the day, but I cannot
+  simply let this decision pass without comment. For those of you who don't
+  know...
+---
+
 # Scone Old Parish Church: An Atheist's Lament
 
 I may have come to this story a little late in the day, but I cannot simply let this decision pass without comment.  For those of you who don't know, the village of Scone in Scotland has been undergoing some ecclesiastical upheaval of late, concerning the merger of the two main churches in the village, Scone Old Parish Church and Scone New.  A unified church needs only one place of worship, and there has been protracted discussion as to which church is to be selected.  The [decision was recently made](http://www.bbc.co.uk/news/uk-scotland-tayside-central-12937285) to maintain Scone New as the place of worship, leaving the fate of Scone Old somewhat uncertain.

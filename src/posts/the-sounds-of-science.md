@@ -1,3 +1,11 @@
+---
+title: The Sounds of Science
+date: 2010-08-23
+excerpt: We all know that science can be something difficult to get across to
+  the man in the street. Stuffing technical papers down their throat is
+  definitely...
+---
+
 # The Sounds of Science
 
 We all know that science can be something difficult to get across to the man in the street.  Stuffing technical papers down their throat is definitely a no-no.  Pretty pictures are definitely better; there's nothing like a Hubble image of the Eagle Nebula's Pillars of Creation or a satellite image of the ice caps to get people engaged and interested.  Visual aids are good - but how about audio aids?  Go past the jump to hear the sound of software, artificial life making artificial music and black holes playing space-time like a trumpet!

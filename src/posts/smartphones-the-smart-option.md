@@ -1,3 +1,11 @@
+---
+title: "Smartphones: The Smart Option?"
+date: 2009-10-18
+excerpt: I must admit that smartphones have impacted my consciousness quite
+  severely in the last few weeks. Things came to a head when a friend shared
+  the...
+---
+
 # Smartphones: The Smart Option?
 
 I must admit that smartphones have impacted my consciousness quite severely in the last few weeks.  Things came to a head when a friend shared the link to this [wonderful new phone](http://www.youtube.com/watch?v=K05mi7G3jIk) on Facebook...check it out before the jump...![](http://letterstonature.wordpress.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")Didn't you want that phone to be real? Be honest, how long did it take you to work out that this was a hoax?

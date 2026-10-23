@@ -1,3 +1,11 @@
+---
+title: All Science is Vital
+date: 2010-10-19
+excerpt: Well, it's been over a month since I submitted my thesis, so time to
+  get back on the horse, and get back into blogging. Thanks for coming back!
+  The...
+---
+
 # All Science is Vital
 
 Well, it's been over a month since I submitted my thesis, so time to get back on the horse, and get back into blogging.  Thanks for coming back!  The entire UK waits in trepidation for the details of the Spending Review to be unveiled.  The Conservative-Liberal Democrat coalition government is on a mission to cut the deficit by a whopping £86bn, corresponding to departmental cuts of around 20%.  Education is on the block, and research in particular.

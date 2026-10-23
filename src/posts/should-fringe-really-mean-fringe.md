@@ -1,3 +1,11 @@
+---
+title: Should Fringe really mean Fringe?
+date: 2010-08-09
+excerpt: It's August, which means Edinburgh doubles in population for 4 weeks as
+  the multitudinous Festivals swarm our city, pumping the civic coffers full
+  of...
+---
+
 # Should Fringe really mean Fringe?
 
 It's August, which means Edinburgh doubles in population for 4 weeks as the multitudinous Festivals swarm our city, pumping the civic coffers full of much needed cash.  Ironically, the largest of the festivals is the Fringe, originally a small-scale outfit which has swollen to a bloated high as the primary outlet for "popular" entertainment such as stand-up comedy and what can only be described as "random" theatre.  With hundreds of venues belching entertainers, flyposters, leaflet monkeys and other detritus onto our streets, one wonders as to how much quality control certain vendors will exercise when ticket sales are at stake.

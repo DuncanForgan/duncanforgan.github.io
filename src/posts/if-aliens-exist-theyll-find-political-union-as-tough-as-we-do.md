@@ -1,3 +1,11 @@
+---
+title: If aliens exist, they'll find political union as tough as we do
+date: 2016-09-01
+excerpt: I've thought a great deal about the so called Zoo solution to Fermi's
+  Paradox over the last five years. This is the idea that intelligent aliens
+  have...
+---
+
 # If aliens exist, they'll find political union as tough as we do
 
 I've thought a great deal about the so called [Zoo solution to Fermi's Paradox](https://en.wikipedia.org/wiki/Zoo_hypothesis) over the last five years. This is the idea that intelligent aliens have decided not to reveal themselves to us, and this is why we see no signs of intelligent life.

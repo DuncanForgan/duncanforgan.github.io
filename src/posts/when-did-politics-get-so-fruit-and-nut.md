@@ -1,3 +1,11 @@
+---
+title: When did Politics get so Fruit and Nut?
+date: 2010-05-16
+excerpt: I was making muffins today (my usual quasi-elderly Sunday activity),
+  and watching BBC 1 Scotland's Politics Show. I had used the last of my
+  frozen...
+---
+
 # When did Politics get so Fruit and Nut?
 
 I was making muffins today (my usual quasi-elderly Sunday activity), and watching BBC 1 Scotland's Politics Show.   I had used the last of my frozen cranberries, and was now adding some chopped nuts to the mix.  Meanwhile, the punters onscreen were discussing the current fixed term in the UK Parliament, and the potential for an unhappy mix of Holyrood and Westminster on future polling days.

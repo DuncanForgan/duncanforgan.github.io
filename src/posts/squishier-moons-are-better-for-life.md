@@ -1,3 +1,11 @@
+---
+title: Squishier moons are better for life
+date: 2016-03-24
+excerpt: My more eager readers will have noticed a sudden flurry of submissions
+  to the arXiv since Christmas. I'll try and bring you up to date with what
+  I've...
+---
+
 # Squishier moons are better for life
 
 My more eager readers will have noticed a sudden flurry of submissions to the arXiv since Christmas. I'll try and bring you up to date with what I've been publishing recently, which is hitting a variety of topics.
