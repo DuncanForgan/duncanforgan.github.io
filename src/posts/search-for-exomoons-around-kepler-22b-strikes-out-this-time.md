@@ -2,7 +2,7 @@
 
 It's been a real pleasure to take my theoretical work on the [habitability of exomoons](/blog/what-is-the-habitable-zone-for-an-exomoon "What is the Habitable Zone for an Exomoon?") out into reality, with the [Hunt for Exomoons with Kepler](http://www.cfa.harvard.edu/HEK/) (HEK) team. We've recently had [this paper](http://arxiv.org/abs/1306.1530) accepted for publication, where we used the Kepler Space Telescope's data on [Kepler-22b](http://en.wikipedia.org/wiki/Kepler-22b) to search for an exomoon around it.
 
-[![Image Credit: NASA/Ames/JPL-Caltech](/images/posts/search-for-exomoons-around-kepler-22b-strikes-out-this-time/607771main_kepler22bdiagram_1024-768.jpg)](http://wellbredinsolence.files.wordpress.com/2011/12/607771main_kepler22bdiagram_1024-768.jpg)
+[![Image Credit: NASA/Ames/JPL-Caltech](/images/posts/search-for-exomoons-around-kepler-22b-strikes-out-this-time/607771main_kepler22bdiagram_1024-768.jpg)](/images/posts/search-for-exomoons-around-kepler-22b-strikes-out-this-time/607771main_kepler22bdiagram_1024-768.jpg)
 
 *Image Credit: NASA/Ames/JPL-Caltech*
 
@@ -14,7 +14,7 @@ Alas, we did not detect an exomoon around Kepler-22b - at least, no moon bigger 
 So why was I involved in this work? My job was to help the HEK team assess how well they can detect exomoons - in particular, how well they can determine if an exomoon is habitable. The team injected a fake moon into the transit data, and then used their software to see if they could find it. The algorithm they use doesn't give data for one moon out as an answer - instead, it gives a whole selection of moons, with properties clustered around the "true" values. This is a way of expressing the [uncertainty](http://en.wikipedia.org/wiki/Uncertainty) or error bars in the answer.
 I took this selection of moons, and ran each one through the [climate models I developed](http://arxiv.org/abs/1304.4377). This gives a series of climates, some warm, some hot and some cold. I also ran the "true" moon through the model, giving the "true" climate of the moon, which it turns out was warm.
 
-[![Results from my analysis of the output of the HEK algorithm.  The "true" moon the HEK team injected into the data is warm, so the algorithm does pretty well!](/images/posts/search-for-exomoons-around-kepler-22b-strikes-out-this-time/habclass.png)](http://wellbredinsolence.files.wordpress.com/2013/09/habclass.png)
+[![Results from my analysis of the output of the HEK algorithm.  The "true" moon the HEK team injected into the data is warm, so the algorithm does pretty well!](/images/posts/search-for-exomoons-around-kepler-22b-strikes-out-this-time/habclass.png)](/images/posts/search-for-exomoons-around-kepler-22b-strikes-out-this-time/habclass.png)
 
 *Results from my analysis of the output of the HEK algorithm. In summary - the algorithm does a pretty good job!*
 

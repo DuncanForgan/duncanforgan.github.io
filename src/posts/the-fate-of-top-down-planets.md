@@ -3,7 +3,7 @@
 Avid readers may remember a few years ago I blogged about the [statistics of objects formed by disc fragmentation](/blog/doing-the-statistics-on-top-down-planet-formation "Doing the Statistics on Top Down Planet Formation"). In our [paper](http://arxiv.org/abs/1304.4978), we looked at tidal downsizing, to see if big fluffy disc fragments with masses bigger than Jupiter could form solid cores and lose their gas to become objects of Neptune, maybe even Earth masses.  We created what's known as a **population synthesis model** - this is essentially a way of running lots of simulations very quickly to get lots of output data, in our case lots of fragments which have evolved to form objects (or not, as the case may be).
 We discovered that making terrestrial planets is very hard - after producing millions of disc fragmentation events in our model, only one of those objects went on to make an Earthlike body. In fact, we lost about half of the fragments to tidal disruption - they were ripped to shreds by getting too close to their star before they had become fully formed. Most of the surviving fragments were giant planets or brown dwarfs orbiting at about Neptune's distance from the Sun. 
 
-[![Our one in a million Earthlike planet formed by tidal downsizing, all alone at the bottom of the plot.](/images/posts/the-fate-of-top-down-planets/one.png)](https://wellbredinsolence.files.wordpress.com/2013/07/one.png)
+[![Our one in a million Earthlike planet formed by tidal downsizing, all alone at the bottom of the plot.](/images/posts/the-fate-of-top-down-planets/one.png)](/images/posts/the-fate-of-top-down-planets/one.png)
 
 *Our one in a million Earthlike planet formed by tidal downsizing, all alone at the bottom of the plot.*
 
@@ -12,7 +12,7 @@ One of the most important pieces of physics we jettisoned early on was fragment-
 Instead, our fragments coast along on nice circular orbits.  We didn't add gravitational interactions to the model because it would have needed extra computational power, and would have taken much longer to produce results. Also, we knew that in the simulation, the disc would have been the biggest nearby source of gravity, and would have acted to smooth out these orbital changes. 
 But eventually, the disc will disappear. Then what happens? We decided to [run our models](http://arxiv.org/abs/1411.7313) through N Body simulations to find out. With the help of Richard Parker, we placed our systems into his star cluster simulations, and we ran separate simulations to find out whether the planetary systems the model produced were stable. 
 
-[![An example of an unstable planetary system produced by the population synthesis model.  Four bodies orbit the star initially - two bodies get launched away from the host star, leaving two in stable orbits.](/images/posts/the-fate-of-top-down-planets/screen-shot-2015-03-30-at-15-57-07.png)](http://duncanforgan.wordpress.com/wp-content/uploads/2015/03/screen-shot-2015-03-30-at-15-57-07.png)
+[![An example of an unstable planetary system produced by the population synthesis model.  Four bodies orbit the star initially - two bodies get launched away from the host star, leaving two in stable orbits.](/images/posts/the-fate-of-top-down-planets/screen-shot-2015-03-30-at-15-57-07.png)](/images/posts/the-fate-of-top-down-planets/screen-shot-2015-03-30-at-15-57-07.png)
 
 *An example of an unstable planetary system produced by the population synthesis model. Four bodies orbit the star initially - two bodies get launched away from the host star, leaving two in stable orbits.*
 

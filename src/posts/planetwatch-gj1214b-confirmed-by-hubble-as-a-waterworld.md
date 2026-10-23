@@ -2,7 +2,7 @@
 
 It's difficult to blink without seeing a press release on an unusual exoplanet.  This time it's GJ1214b who's back in the headlines.  It was discovered by the [Mearth](https://www.cfa.harvard.edu/~zberta/mearth/Welcome.html) project in 2009, using the transit method.  Mearth purposefully looks at M type stars, i.e. very low mass stars, because smaller planets will be able to block out a larger fraction of the host starlight.
 
-[![](/images/posts/planetwatch-gj1214b-confirmed-by-hubble-as-a-waterworld/lores.jpg "lores")](http://wellbredinsolence.files.wordpress.com/2012/02/lores.jpg)
+[![](/images/posts/planetwatch-gj1214b-confirmed-by-hubble-as-a-waterworld/lores.jpg "lores")](/images/posts/planetwatch-gj1214b-confirmed-by-hubble-as-a-waterworld/lores.jpg)
 
 *The Mearth Project, composed of 8 16" telescopes controlled robotically. Credit: Cfa*
 
@@ -11,7 +11,7 @@ This is more than just a big quivering blob of liquid.  The core of this planet
 Even regular, old-fashioned steam would seem to exist here.  In 2009, theoretical models underestimated the apparent radius of GJ1214b, which the Mearth team interpreted as the presence of a steamy atmosphere above the surface.
 Now, 3 years later, [the Hubble Space Telescope has been brought to bear on GJ1214b](http://www.cfa.harvard.edu/news/2012/pr201204.html).  Hubble's [Wide Field Camera 3](http://hubblesite.org/the_telescope/nuts_.and._bolts/instruments/wfc3/) was trained on the planet as it went through a transit.  As the planet obscures its host star, starlight shines through the planet's atmosphere towards Earth.  The atmosphere preferentially absorbs at specific wavelengths, leaving a chemical fingerprint in the light's spectrum.
 
-[![](/images/posts/planetwatch-gj1214b-confirmed-by-hubble-as-a-waterworld/hires.jpg "hires")](http://wellbredinsolence.files.wordpress.com/2012/02/hires.jpg)
+[![](/images/posts/planetwatch-gj1214b-confirmed-by-hubble-as-a-waterworld/hires.jpg "hires")](/images/posts/planetwatch-gj1214b-confirmed-by-hubble-as-a-waterworld/hires.jpg)
 
 *An artist's impression of GJ1214b transiting its host star. Credit: CfA*
 

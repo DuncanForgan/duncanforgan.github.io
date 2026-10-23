@@ -1,7 +1,7 @@
 # Health Impact Fund: A Cure for Big Pharma?
 
 Not to step on [Phil Plait](http://blogs.discovermagazine.com/badastronomy/)'s toes, but today I'm talking about antivaxxers' favourite target.  Does "Big Pharma" have to be "evil"? Or are we (and by that I mean lawmakers) to blame?
-[![](/images/posts/health-impact-fund-a-cure-for-big-pharma/pharm.jpg "pharm")](http://wellbredinsolence.files.wordpress.com/2010/02/pharm.jpg)
+[![](/images/posts/health-impact-fund-a-cure-for-big-pharma/pharm.jpg "pharm")](/images/posts/health-impact-fund-a-cure-for-big-pharma/pharm.jpg)
 We're all well aware of the well-worn mantra: "*Big Pharma doesn't care about us.  They would rather make money than save lives*".  Is that true? I doubt that, but there might be a grain of truth in there, and [Thomas Pogge](http://en.wikipedia.org/wiki/Thomas_Pogge) would probably agree.  Currently Professor or Philosophy and International Affairs at Yale, Pogge has big ideas for how Big Pharma should be funded in the future.  His idea centres around the Health Impact Fund (HIF), which [in his own words](http://www.incentivesforglobalhealth.org), is:
 > a new proposal based on two simple insights: (1) privately funded pharmaceutical R&D responds to incentives, and (2) new drugs can have a much larger impact if their prices are low. At present, the most profitable research efforts are not the ones most needed to alleviate the global burden of disease. And high prices often put new drugs out of reach of most of the world’s population.
 

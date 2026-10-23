@@ -3,14 +3,14 @@
 It's been a long time since I wrote about my research, as I once said (rather haughtily) [everyone should do](/blog/how-i-would-improve-the-arxiv "How I would Improve the ArXiv"), so I'll get back into the saddle.
 Like all good science, this work started as a rather rambling lunch-time conversation about how humans should physically explore the Galaxy.  We took our inspiration from humankind's exploration of the Solar System:
 
-[![The paths taken by the Voyager spacecraft as they explored and left our Solar System](/images/posts/galactic-grand-tours-and-strengthening-fermis-paradox/1000px-voyager_path-svg.png)](http://wellbredinsolence.files.wordpress.com/2013/02/1000px-voyager_path-svg.png)
+[![The paths taken by the Voyager spacecraft as they explored and left our Solar System](/images/posts/galactic-grand-tours-and-strengthening-fermis-paradox/1000px-voyager_path-svg.png)](/images/posts/galactic-grand-tours-and-strengthening-fermis-paradox/1000px-voyager_path-svg.png)
 
 *The paths taken by the Voyager spacecraft as they explored and left our Solar System*
 
 The [Voyager](http://voyager.jpl.nasa.gov/spacecraft/index.html) spacecraft were launched with the primary function of exploring the outer Solar System planets and their environment, but have also travelled to far greater distances from the Sun.   Voyager 1 remains a scientifically viable instrument, despite being over 11 billion miles from its launch site - signals from the spacecraft take over a day to arrive at Earth despite travelling at the speed of light!
 How the Voyagers managed to accelerate themselves sufficiently to travel so far from the deep gravitational well of the Solar System is a neat example of the conservation of energy.  The planets possess an enormous amount of energy stored in their orbital motion, and this energy source can be tapped using a [gravitational slingshot maneouvre](http://en.wikipedia.org/wiki/Gravity_assist).  The probe slings around the planet, using the planet's gravitational field to change its trajectory and fling it in a different direction.
 
-[![How the slingshot looks like from (top) an observer on a planet surface and (bottom) an observer moving relative to the planet](/images/posts/galactic-grand-tours-and-strengthening-fermis-paradox/grav_slingshot_diagram.png)](http://wellbredinsolence.files.wordpress.com/2013/02/grav_slingshot_diagram.png)
+[![How the slingshot looks like from (top) an observer on a planet surface and (bottom) an observer moving relative to the planet](/images/posts/galactic-grand-tours-and-strengthening-fermis-paradox/grav_slingshot_diagram.png)](/images/posts/galactic-grand-tours-and-strengthening-fermis-paradox/grav_slingshot_diagram.png)
 
 *How the slingshot looks like from (top) an observer on a planet surface and (bottom) an observer moving relative to the planet (via Wikipedia)*
 

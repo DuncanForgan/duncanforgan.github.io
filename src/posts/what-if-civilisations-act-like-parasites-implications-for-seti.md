@@ -1,6 +1,6 @@
 # What if Civilisations Act Like Parasites? Implications for SETI
 
-[![The parasitic alien civilisation in Independence Day](/images/posts/what-if-civilisations-act-like-parasites-implications-for-seti/tumblr_m64misawoz1qaonh9o1_500.jpg)](http://wellbredinsolence.files.wordpress.com/2013/11/tumblr_m64misawoz1qaonh9o1_500.jpg)
+[![The parasitic alien civilisation in Independence Day](/images/posts/what-if-civilisations-act-like-parasites-implications-for-seti/tumblr_m64misawoz1qaonh9o1_500.jpg)](/images/posts/what-if-civilisations-act-like-parasites-implications-for-seti/tumblr_m64misawoz1qaonh9o1_500.jpg)
 
 *The parasitic alien civilisation in Independence Day*
 
@@ -19,13 +19,13 @@ The number of hosts/planets available to a civilisation will depend on how "near
 These top speeds we are setting for these colonising species aren't particularly high: Voyager is currently travelling at about a hundred thousandth of the speed of light.  A clever probe might be able to [use gravitational slingshots](/blog/galactic-grand-tours-and-strengthening-fermis-paradox "Galactic Grand Tours, and strengthening Fermi’s Paradox") to boost up to nearer a hundredth of the speed of light.
 We found that if the civilisations can only colonise slowly, then it doesn't pay to be a parasite.  As you can see from the graph, mutualists (blue) tend to do better than the parasites (red).
 
-[![The number of civilisations in the Galaxy with time.  The red line shows the parasites, the blue the mutualists, and the black line is the total.](/images/posts/what-if-civilisations-act-like-parasites-implications-for-seti/slow.png)](http://wellbredinsolence.files.wordpress.com/2013/09/slow.png)
+[![The number of civilisations in the Galaxy with time.  The red line shows the parasites, the blue the mutualists, and the black line is the total.](/images/posts/what-if-civilisations-act-like-parasites-implications-for-seti/slow.png)](/images/posts/what-if-civilisations-act-like-parasites-implications-for-seti/slow.png)
 
 *The number of civilisations in the Galaxy with time, in our model. The time parameter is scaled so that 1=the present, and 0=the Big Bang.  The red line shows the parasites, the blue the mutualists, and the black line is the total.*
 
 As we increase the velocity, we increase the number of available hosts, making it less costly to be a deadly parasite, until at 100x Voyager's velocity, parasites dominate the Galaxy, colonising and destroying planets that would have hosted benevolent civilisations, before the good guys could even pick up tools.  This is analogous to [invasions of species on Earth](http://en.wikipedia.org/wiki/Introduced_species_of_the_British_Isles) - sometimes, a species will enter a local ecosystem from outside and simply out-eat and out-breed its competitors.  In the UK, the grey squirrel's dominance of the native red squirrel is a classic example.
 
-[![Colonising at high speed allows the parasites to leave the mutualists behind and conquer the Galaxy.](/images/posts/what-if-civilisations-act-like-parasites-implications-for-seti/fastest.png)](http://wellbredinsolence.files.wordpress.com/2013/09/fastest.png)
+[![Colonising at high speed allows the parasites to leave the mutualists behind and conquer the Galaxy.](/images/posts/what-if-civilisations-act-like-parasites-implications-for-seti/fastest.png)](/images/posts/what-if-civilisations-act-like-parasites-implications-for-seti/fastest.png)
 
 *Colonising at high speed allows the parasites to colonise mutualist planets before they develop civilisations, and conquer the Galaxy!*
 

@@ -2,7 +2,7 @@
 
 If my last post on population synthesis modelling was a little dry for your tastes, I hope this SETI post will whet your whistle.  This particular post comes so late that [other websites](http://news.discovery.com/space/alien-life-exoplanets/planet-searches-might-stumble-across-an-alien-stellar-engine-130625.htm#mkcpgn=rssnws1) have [already written](http://io9.com/how-to-detect-massive-alien-spaceships-powered-by-stars-586562014) about this work.  While this makes me look bad, it does mean that I will be using their very good graphics to illustrate my points.
 
-[![Like so.](/images/posts/exoplanet-transits-and-star-shunters/k-bigpic.jpg)](http://wellbredinsolence.files.wordpress.com/2013/07/k-bigpic.jpg)
+[![Like so.](/images/posts/exoplanet-transits-and-star-shunters/k-bigpic.jpg)](/images/posts/exoplanet-transits-and-star-shunters/k-bigpic.jpg)
 
 *Like so. (via i09)*
 
@@ -12,13 +12,13 @@ I was interested in a variant of the Dyson sphere, which is referred to as a Cla
 If the mirror is placed in an orbit such that the radiation forces on it are balanced by the star's gravitational attraction, the mirror stays in place, and the star, mirror (and any planets the star possesses) will begin to move together.  Advanced civilisations that can build Shkadov thrusters can now choose to shift their entire star system; either to avoid dangers such as approaching molecular clouds, or because conditions in another part of the Milky Way are more conducive to their way of life.
 If the star system in question has an exoplanet we can detect via the transit method, and the mirror also comes in between the star and us, then the exoplanet transit curve will change, and in principle we will be able to measure this.
 
-[![Artist's impression of the thruster obscuring the transit.](/images/posts/exoplanet-transits-and-star-shunters/ku-xlarge.jpg)](http://wellbredinsolence.files.wordpress.com/2013/07/ku-xlarge.jpg)
+[![Artist's impression of the thruster obscuring the transit.](/images/posts/exoplanet-transits-and-star-shunters/ku-xlarge.jpg)](/images/posts/exoplanet-transits-and-star-shunters/ku-xlarge.jpg)
 
 *Artist's impression of the thruster obscuring the transit. (via Discovery News)*
 
 Exoplanet transit curves get their crescent shape from a process called [limb-darkening](http://en.wikipedia.org/wiki/Limb_darkening).  When astronomers look at the disc of a star on the sky, they find that the centre of the disc is brighter than the edges (the limbs).  There are two reasons for this: firstly, the edges of stars are cooler than the centre, and secondly, the edges are less dense.  A normal exoplanet transit curve will have a symmetric crescent shape - if part of the star is blocked thanks to the Shkadov thruster, then the limbs will be hidden, and part of the curve will not be limb-darkened, and the crescent shape will be lost.
 
-[![The shape of a Shkadov transit, showing the limb-darkened and obscured sections of the curve.](/images/posts/exoplanet-transits-and-star-shunters/shkadov.png)](http://wellbredinsolence.files.wordpress.com/2013/07/shkadov.png)
+[![The shape of a Shkadov transit, showing the limb-darkened and obscured sections of the curve.](/images/posts/exoplanet-transits-and-star-shunters/shkadov.png)](/images/posts/exoplanet-transits-and-star-shunters/shkadov.png)
 
 *The shape of a Shkadov transit, showing the limb-darkened and obscured sections of the curve.  (via a shameless screengrab of my talk this coming Friday)*
 
