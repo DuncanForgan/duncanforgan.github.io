@@ -1,0 +1,55 @@
+name: Sync blogPosts.js
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/posts/**.md'
+      - 'src/config/blogPosts.js'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: "sync-blog-posts"
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Add missing posts to blogPosts.js
+        run: node scripts/sync-blog-posts.mjs
+
+      - name: Commit and push changes
+        id: commit
+        run: |
+          if git diff --quiet -- src/config/blogPosts.js; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/config/blogPosts.js
+          git commit -m "Add missing posts to blogPosts.js"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # Pushes made with GITHUB_TOKEN don't trigger other workflows,
+      # so explicitly redeploy to publish the updated listing.
+      - name: Trigger deploy
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref "${{ github.ref_name }}"
