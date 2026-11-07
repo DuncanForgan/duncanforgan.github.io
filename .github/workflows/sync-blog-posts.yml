@@ -1,0 +1,46 @@
+name: Sync blogPosts.js
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'src/posts/**.md'
+      - 'src/config/blogPosts.js'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-blog-posts-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    # GITHUB_TOKEN can't push to branches in forks
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Add missing posts to blogPosts.js
+        run: node scripts/sync-blog-posts.mjs
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet -- src/config/blogPosts.js; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/config/blogPosts.js
+          git commit -m "Add missing posts to blogPosts.js"
+          git push
