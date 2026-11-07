@@ -2,7 +2,7 @@
 
 The week of the Kepler Science Conference (or #KepSciCon, to the Twitterati) was always going to be momentous, with another release of data from the space telescope's science team.  And they didn't disappoint! Kepler-22b is the closest we've come to seeing a twin Earth in the Milky Way.
 
-[![](/images/posts/planetwatch-kepler-22b-and-why-we-need-harps-north/607771main_kepler22bdiagram_1024-768.jpg "607771main_Kepler22bDiagram_1024-768")](http://wellbredinsolence.files.wordpress.com/2011/12/607771main_kepler22bdiagram_1024-768.jpg)
+[![](/images/posts/planetwatch-kepler-22b-and-why-we-need-harps-north/607771main_kepler22bdiagram_1024-768.jpg "607771main_Kepler22bDiagram_1024-768")](/images/posts/planetwatch-kepler-22b-and-why-we-need-harps-north/607771main_kepler22bdiagram_1024-768.jpg)
 
 *Image Credit: NASA/Ames/JPL-Caltech*
 
@@ -11,7 +11,7 @@ Kepler detects exoplanets via transits (where the planet eclipses its parent sta
 But remember that Kepler-22b has a radius 2.4 times the Earth's.  If it has a similar chemical composition, the mass of Kepler-22b could be about 14 times the mass of Earth.  Surprisingly, this still makes it quite a low-mass planet - a Super-Earth - and this value is probably an upper limit.  Without any knowledge of the planet's composition, scientists will have to guess its mass.
 The only way we'll be able to confirm the mass of this planet is to carry out a follow-up survey, using radial velocity (or Doppler Wobble) techniques. These directly probe the gravitational forces in the system, and by extension the masses.  And it just so happens that [Edinburgh University is part of the HARPS North consortium](http://www.roe.ac.uk/roe/support/pr/pressreleases/110212-harpsnorth/index.html), which plans to build an instrument to do just that.
 
-[![](/images/posts/planetwatch-kepler-22b-and-why-we-need-harps-north/harps-n-st-andrews.jpg "harps-n-st-andrews")](http://wellbredinsolence.files.wordpress.com/2011/08/harps-n-st-andrews.jpg)
+[![](/images/posts/planetwatch-kepler-22b-and-why-we-need-harps-north/harps-n-st-andrews.jpg "harps-n-st-andrews")](/images/posts/planetwatch-kepler-22b-and-why-we-need-harps-north/harps-n-st-andrews.jpg)
 
 *The Telescopio Nazionale Galileo in the Canary Islands, destination of the HARPS-North instrument (Source: University of St. Andrews)*
 

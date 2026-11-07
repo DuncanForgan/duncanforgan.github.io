@@ -2,7 +2,7 @@
 
 The James Webb Space Telescope ([JWST](http://www.jwst.nasa.gov/index.html)), the successor to the Hubble Space Telescope, is close to losing all its funding.  The fiscal year 2012 Commerce, Justice, Science Appropriations bill, being considered by the US government's House Appropriation Committee [(see the release here)](http://appropriations.house.gov/News/DocumentSingle.aspx?DocumentID=250023), is to recommend $1.6 billion dollar cuts to the total NASA budget, with about half a billion disappearing from its Science programs.
 
-[![](/images/posts/james-webb-space-telescope-funding-to-be-terminated/175671main_jwst_artist.jpg "175671main_jwst_artist")](http://wellbredinsolence.files.wordpress.com/2011/07/175671main_jwst_artist.jpg)
+[![](/images/posts/james-webb-space-telescope-funding-to-be-terminated/175671main_jwst_artist.jpg "175671main_jwst_artist")](/images/posts/james-webb-space-telescope-funding-to-be-terminated/175671main_jwst_artist.jpg)
 
 *Image Credit: NASA*
 

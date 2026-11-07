@@ -2,11 +2,11 @@
 
 The coming release of *The Hobbit* in cinemas brings to mind a common mistake amongst astronomers (and the general public) when they come to the plural of "dwarf".
 
-[![](/images/posts/pedants-corner-dwarves-vs-dwarfs/orion_hubble_brown_dwarfs2.jpg "_orion_hubble_brown_dwarfs")](http://wellbredinsolence.files.wordpress.com/2012/11/orion_hubble_brown_dwarfs2.jpg)
+[![](/images/posts/pedants-corner-dwarves-vs-dwarfs/orion_hubble_brown_dwarfs2.jpg "_orion_hubble_brown_dwarfs")](/images/posts/pedants-corner-dwarves-vs-dwarfs/orion_hubble_brown_dwarfs2.jpg)
 
 *These are brown dwarfs... (Hubble image of Orion)*
 
-[![](/images/posts/pedants-corner-dwarves-vs-dwarfs/the-hobbit1.jpg "the-hobbit1")](http://wellbredinsolence.files.wordpress.com/2012/11/the-hobbit1.jpg)
+[![](/images/posts/pedants-corner-dwarves-vs-dwarfs/the-hobbit1.jpg "the-hobbit1")](/images/posts/pedants-corner-dwarves-vs-dwarfs/the-hobbit1.jpg)
 
 *...and these are dwarves wearing brown*
 

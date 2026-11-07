@@ -3,7 +3,7 @@
 Over the Christmas break, I saw [this paper](http://arxiv.org/abs/1201.0752) pop up in my Twitter feed, which caught my eye. The Hunt for Exomoons with Kepler (HEK) is an ambitious attempt to do something that has never been done before - detect a moon orbiting an exoplanet.
 Now, let's put the audacity of this venture in perspective. Exomoons are pretty much invisible in radial velocity (or Doppler Wobble) measurements, unless you have a superhuman spectrograph that's absurdly sensitive to minute shifts in velocity. The best way to detect them is via transits (hence the current attempt to use [Kepler](http://kepler.nasa.gov/)). You're unlikely to "see" the moon itself. What you're more likely to see is the host exoplanet's transits "wobbling", as the moon tugs on the planet (see pic below).
 
-[![](/images/posts/planetwatch-the-hunt-for-exomoons/exomoon.png "exomoon")](http://wellbredinsolence.files.wordpress.com/2012/01/exomoon.png)
+[![](/images/posts/planetwatch-the-hunt-for-exomoons/exomoon.png "exomoon")](/images/posts/planetwatch-the-hunt-for-exomoons/exomoon.png)
 
 *Diagram of the star-planet-moon system (moon not shown, taken from Kipping 2009)*
 

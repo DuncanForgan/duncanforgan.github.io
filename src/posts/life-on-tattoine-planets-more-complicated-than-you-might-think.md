@@ -4,7 +4,7 @@ We all know that life on Earth depends on the Sun, and not just to keep the cold
 
 But what if our solar system had two stars? We know that there are several exoplanet systems out there that have the luxury of multiple host stars. In the case of the [Kepler 47 system](http://arxiv.org/abs/1208.5489), there is a planet in the habitable zone (confirmed by several teams of astrobiologists, including [myself](http://arxiv.org/abs/1310.3611)). Kepler-47c orbits a star quite like our Sun and a cool red dwarf star (see graphic below), and so we refer to it as a circumbinary planet.
 
-[![The Kepler-47 system, compared to our Solar System.  Credit: NASA](/images/posts/life-on-tattoine-planets-more-complicated-than-you-might-think/kepler47.jpg)](http://duncanforgan.wordpress.com/wp-content/uploads/2014/09/kepler47.jpg)
+[![The Kepler-47 system, compared to our Solar System.  Credit: NASA](/images/posts/life-on-tattoine-planets-more-complicated-than-you-might-think/kepler47.jpg)](/images/posts/life-on-tattoine-planets-more-complicated-than-you-might-think/kepler47.jpg)
 
 *The Kepler-47 system, compared to our Solar System. Credit: NASA*
 

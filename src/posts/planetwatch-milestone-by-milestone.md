@@ -2,7 +2,7 @@
 
 This week's hottest news is of course the "Tatooine" type planet [Kepler 16-B](http://arxiv.org/abs/1109.3432), a Saturn-like planet orbiting two stars. Detected using the Kepler Space Telescope, it orbits a closely packed binary system (with total mass about the same as our Sun).  The whole system is aligned on the same plane to within about half a degree, suggesting that the whole system formed out of a single disc of material - this is by no means the only possible way, but it is certainly the simplest, and we should apply Occam's Razor in the absence of other data.  This is a somewhat serendipitous discovery - the planet is due to stop transiting star A in 2018, and star B in 2014, not to do so again for a few decades.  In astronomical terms, the team caught this planet just in time!
 
-[![](/images/posts/planetwatch-milestone-by-milestone/double.png "double")](http://wellbredinsolence.files.wordpress.com/2011/09/double.png)
+[![](/images/posts/planetwatch-milestone-by-milestone/double.png "double")](/images/posts/planetwatch-milestone-by-milestone/double.png)
 
 *Schematic of the Kepler-16 system (taken from Doyle et al 2011, Science, in press)*
 

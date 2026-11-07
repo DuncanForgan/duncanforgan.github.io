@@ -2,7 +2,7 @@
 
 It's the nearest star system to our own.  It has two Sunlike stars (and one dwarf star).  We've been measuring the orbits of the binary accurately for over a century.  And on top of all that, there are good indications from theory and observations that they are capable of hosting planets.  So it's not a surprise that the Alpha Centauri system has been [in the minds of exoplanet scientists](http://arxiv.org/abs/0802.3482) for some time.
 
-[![](/images/posts/the-wobbly-habitable-zone-of-alpha-centauri-b/3630370193_51ba0a98aa_o.png "3630370193_51ba0a98aa_o")](http://wellbredinsolence.files.wordpress.com/2012/02/3630370193_51ba0a98aa_o.png)
+[![](/images/posts/the-wobbly-habitable-zone-of-alpha-centauri-b/3630370193_51ba0a98aa_o.png "3630370193_51ba0a98aa_o")](/images/posts/the-wobbly-habitable-zone-of-alpha-centauri-b/3630370193_51ba0a98aa_o.png)
 
 *A schematic of the potential planets in the Alpha Centauri system (Credit: Javiera Guedes)*
 
@@ -12,7 +12,7 @@ So I decided to see what would happen to planets in the habitable zone around Al
 Life on these planets with wobbling climates would have some unique characteristics.  [Circadian rhythms](http://en.wikipedia.org/wiki/Circadian_rhythm) (such as our "body clock") are calibrated to sunlight and the length of the day.  But planets around Alpha Centauri B have two types of day - a normal day like we have on Earth, due to the planet spinning on its axis (a "B-day"), and a second type of day defined by when the planet undergoes a full spin on its axis relative to the distant ACen A (an "A-day").  Now the strength of sunlight from A will change as A orbits around B, because the orbit of A around B is elliptical, and quite elliptical at that.
 So Life around Alpha Centauri B could have two separate sets of circadian rhythms - one calibrated to star B, and one to star A.  Migration patterns will be affected by the fluctuations in temperature - imagine birds that only live for a few years suddenly upping sticks and heading north or south because of a deeply ingrained instinct to move every 70 years because part of the planet's surface suddenly becomes uninhabitable!
 
-[![](/images/posts/the-wobbly-habitable-zone-of-alpha-centauri-b/snapshot-2012-02-07-20-15-05.png "Snapshot 2012-02-07 20-15-05")](http://wellbredinsolence.files.wordpress.com/2012/02/snapshot-2012-02-07-20-15-05.png)
+[![](/images/posts/the-wobbly-habitable-zone-of-alpha-centauri-b/snapshot-2012-02-07-20-15-05.png "Snapshot 2012-02-07 20-15-05")](/images/posts/the-wobbly-habitable-zone-of-alpha-centauri-b/snapshot-2012-02-07-20-15-05.png)
 
 *The results from one of my computer models. This shows the fraction of surface that is habitable on this particular planet vs time. The dips in habitable surface are due to Alpha Centauri A passing close by and heating it up. The equator is too hot for liquid water to exist, and that band of inhospitability increases as Alpha Centauri A goes by*
 
