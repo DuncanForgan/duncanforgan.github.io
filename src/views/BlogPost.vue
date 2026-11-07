@@ -4,7 +4,7 @@
     <div v-else-if="error" class="error">{{ error }}</div>
     <article v-else class="post-content">
       <header class="post-header">
-        <h1>{{ postTitle }}</h1>
+        <h1 v-html="renderedTitle"></h1>
         <div class="author-details">
           <img :src="avatar" alt="Duncan Forgan" class="author-avatar">
           <div class="author-byline">
@@ -36,6 +36,7 @@ const error = ref(null)
 const markdownContent = ref('')
 const postTitle = ref('')
 const postMetadata = computed(() => blogPosts.find(post => post.slug === route.params.slug))
+const renderedTitle = computed(() => marked.parseInline(postTitle.value))
 const formattedPostDate = computed(() => {
   if (!postMetadata.value?.date) return ''
 
