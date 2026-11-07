@@ -2,15 +2,24 @@
   <div class="blog">
     <div v-if="loading" class="loading">Loading...</div>
     <div v-else-if="error" class="error">{{ error }}</div>
-    <div v-else class="post-content">
-      <!--<h1>{{ postTitle }}</h1>-->
+    <article v-else class="post-content">
+      <header class="post-header">
+        <h1>{{ postTitle }}</h1>
+        <div class="author-details">
+          <img :src="avatar" alt="Duncan Forgan" class="author-avatar">
+          <div class="author-byline">
+            <span class="author-name">Duncan Forgan</span>
+            <time v-if="postMetadata?.date" :datetime="postMetadata.date">{{ formattedPostDate }}</time>
+          </div>
+        </div>
+      </header>
       <!-- Note: v-html is used here to render markdown. Since markdown files are -->
       <!-- part of the repository and not user-generated, this is safe. -->
       <div v-html="renderedContent" class="markdown-content"></div>
       <div class="nav-links">
         <router-link to="/blog" class="btn-back">← Back to Blog List</router-link>
       </div>
-    </div>
+    </article>
   </div>
 </template>
 
@@ -18,16 +27,29 @@
 import { ref, onMounted, computed } from 'vue'
 import { useRoute } from 'vue-router'
 import { marked } from 'marked'
+import { blogPosts } from '../config/blogPosts'
+import avatar from '../assets/Elevate-1521-crop.png'
 
 const route = useRoute()
 const loading = ref(true)
 const error = ref(null)
 const markdownContent = ref('')
 const postTitle = ref('')
+const postMetadata = computed(() => blogPosts.find(post => post.slug === route.params.slug))
+const formattedPostDate = computed(() => {
+  if (!postMetadata.value?.date) return ''
+
+  return new Intl.DateTimeFormat(undefined, {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  }).format(new Date(`${postMetadata.value.date}T00:00:00`))
+})
 
 const renderedContent = computed(() => {
   if (markdownContent.value) {
-    return marked(markdownContent.value)
+    const contentWithoutTitle = markdownContent.value.replace(/^#\s+.+(?:\r?\n|$)/m, '')
+    return marked(contentWithoutTitle)
   }
   return ''
 })
@@ -60,10 +82,52 @@ onMounted(async () => {
 </script>
 
 <style scoped>
-.blog-post {
-  max-width: 800px;
+.post-content {
+  max-width: 680px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1rem 0 2rem;
+  text-align: left;
+}
+
+.post-header {
+  margin-bottom: 2.5rem;
+}
+
+.post-header h1 {
+  color: var(--text-color-light);
+  font-size: clamp(2rem, 5vw, 3rem);
+  line-height: 1.15;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  text-align: left;
+}
+
+.author-details {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.author-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.author-byline {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.4;
+}
+
+.author-name {
+  font-weight: 700;
+}
+
+.author-byline time {
+  font-size: 0.9rem;
+  opacity: 0.75;
 }
 
 .loading, .error {
@@ -88,10 +152,11 @@ onMounted(async () => {
   color: var(--text-color-light);
   margin-top: 2rem;
   margin-bottom: 1rem;
+  text-align: left;
 }
 
 .markdown-content :deep(h2) {
-  border-bottom: 1px solid #e0e0e0;
+  border-bottom: 1px solid currentColor;
   padding-bottom: 0.3rem;
 }
 
@@ -126,7 +191,7 @@ onMounted(async () => {
 }
 
 .markdown-content :deep(a) {
-  color: --var(--link-color);
+  color: var(--link-color);
   text-decoration: none;
 }
 
@@ -166,8 +231,8 @@ onMounted(async () => {
   background-color: #e0e0e0;
 }
 
-
 @media (prefers-color-scheme: dark) {
+ .post-header h1,
  .markdown-content,
  .markdown-content :deep(h1),
  .markdown-content :deep(h2),
@@ -175,12 +240,6 @@ onMounted(async () => {
     color: var(--text-color-dark);        
   }
 
-  markdown-content :deep(blockquote) {
-  border-left: 4px solid var(--text-color--dark);
-  padding-left: 1rem;
-  margin-left: 0;  
-  font-style: italic;
-}
 }
 
 </style>
