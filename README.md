@@ -5,7 +5,7 @@ A Vue 3 static website with blog functionality built using Vite.
 ## Features
 
 - **Home Page**: Welcome page with navigation to blog
-- **Blog List**: Page listing all available blog posts
+- **Blog List**: Page listing all available blog posts with topic tags
 - **Dynamic Blog Posts**: Markdown files rendered as blog posts using the `marked` library
 - **Vue Router**: Dynamic routing for seamless navigation
 - **Static Site Generation**: Built as a static site for easy deployment
@@ -57,7 +57,7 @@ src/
 
 ## Adding Blog Posts
 
-Create a new markdown file in `src/posts/` and add it to the list in `src/views/BlogList.vue`.
+Create a new markdown file in `src/posts/` and add its metadata to `src/config/blogPosts.js`: `slug`, `title`, `date`, `excerpt`, and a nonempty `tags` array of topic names. Reuse existing tag names where appropriate so related posts are easy to identify. Tags are displayed on each post card on the blog list page.
 
 ## Deployment
 
@@ -66,4 +66,3 @@ The built static site can be deployed to any static hosting service like:
 - Netlify
 - Vercel
 - AWS S3
-
